@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-KUKULA-001",
+  "contactEmail": "hello@kukulacapital.com",
+  "createdAt": "2011-01-01T00:00:00Z",
+  "branches": 1,
+  "institutionType": "Venture_Capitals",
+  "institutionName": "Kukula_Capital",
+  "country": "Zambia",
+  "established": 2011,
+  "employees": 24,
+  "contactPhone": "+260211000111",
+  "headquarters": "Lusaka",
+  "institutionId": "kukula-0001",
+  "currency": "ZMW",
+  "status": "Active",
+  "website": "https://kukulacapital.com/"
+}

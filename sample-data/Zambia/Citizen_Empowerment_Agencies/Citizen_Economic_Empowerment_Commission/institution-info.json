@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-CEEC-001",
+  "contactEmail": "info@ceec.org.zm",
+  "createdAt": "2016-01-01T00:00:00Z",
+  "branches": 10,
+  "institutionType": "Citizen_Empowerment_Agencies",
+  "institutionName": "Citizen_Economic_Empowerment_Commission",
+  "country": "Zambia",
+  "established": 2016,
+  "employees": 176,
+  "contactPhone": "+260211255000",
+  "headquarters": "Lusaka",
+  "institutionId": "ceec-0001",
+  "currency": "ZMW",
+  "status": "Active",
+  "website": "https://www.ceec.org.zm/"
+}

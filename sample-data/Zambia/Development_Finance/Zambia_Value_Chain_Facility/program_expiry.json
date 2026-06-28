@@ -1,0 +1,23 @@
+[
+  {
+    "programName": "Zambia Value Chain Facility",
+    "bank": "Development Bank of Zambia",
+    "startDate": "2026-01-01",
+    "endDate": "2028-12-31",
+    "renewalPolicy": "Review before expiry"
+  },
+  {
+    "programName": "Agrifood Technical Assistance Window",
+    "bank": "European Investment Bank",
+    "startDate": "2026-03-01",
+    "endDate": "2027-03-01",
+    "renewalPolicy": "Extend if impact targets are met"
+  },
+  {
+    "programName": "Partial Portfolio Guarantee Window",
+    "bank": "Zanaco",
+    "startDate": "2026-02-01",
+    "endDate": "2029-01-31",
+    "renewalPolicy": "Renew subject to portfolio performance"
+  }
+]

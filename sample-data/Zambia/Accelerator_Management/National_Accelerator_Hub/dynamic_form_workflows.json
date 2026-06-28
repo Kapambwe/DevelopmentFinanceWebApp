@@ -1,0 +1,62 @@
+[
+  {
+    "country": "Zambia",
+    "institutionType": "Accelerator_Management",
+    "institutionName": "National_Accelerator_Hub",
+    "formName": "Startup application management",
+    "stepOrder": 1,
+    "stepName": "Application intake",
+    "approverRole": "Application review",
+    "action": "Check startup details",
+    "status": "Ready",
+    "lastUpdated": "2026-06-26T08:00:00Z"
+  },
+  {
+    "country": "Zambia",
+    "institutionType": "Accelerator_Management",
+    "institutionName": "National_Accelerator_Hub",
+    "formName": "Startup assessment engine",
+    "stepOrder": 1,
+    "stepName": "Scoring review",
+    "approverRole": "Scoring team",
+    "action": "Validate assessment",
+    "status": "Ready",
+    "lastUpdated": "2026-06-26T08:05:00Z"
+  },
+  {
+    "country": "Zambia",
+    "institutionType": "Accelerator_Management",
+    "institutionName": "National_Accelerator_Hub",
+    "formName": "Funding readiness engine",
+    "stepOrder": 1,
+    "stepName": "Finance review",
+    "approverRole": "Investor relations",
+    "action": "Review readiness pack",
+    "status": "Ready",
+    "lastUpdated": "2026-06-26T08:10:00Z"
+  },
+  {
+    "country": "Zambia",
+    "institutionType": "Accelerator_Management",
+    "institutionName": "National_Accelerator_Hub",
+    "formName": "Mentor management",
+    "stepOrder": 1,
+    "stepName": "Mentor assignment",
+    "approverRole": "Mentor network",
+    "action": "Assign mentor",
+    "status": "Ready",
+    "lastUpdated": "2026-06-26T08:15:00Z"
+  },
+  {
+    "country": "Zambia",
+    "institutionType": "Accelerator_Management",
+    "institutionName": "National_Accelerator_Hub",
+    "formName": "Economic impact tracking",
+    "stepOrder": 1,
+    "stepName": "Impact review",
+    "approverRole": "Impact analytics",
+    "action": "Validate indicators",
+    "status": "Ready",
+    "lastUpdated": "2026-06-26T08:20:00Z"
+  }
+]

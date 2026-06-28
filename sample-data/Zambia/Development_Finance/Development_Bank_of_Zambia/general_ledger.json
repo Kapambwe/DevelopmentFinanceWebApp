@@ -1,0 +1,18 @@
+[
+  {
+    "country": "Zambia",
+    "accountNo": "1000",
+    "description": "Opening cash position",
+    "debit": "ZMW 4.0M",
+    "credit": "ZMW 0",
+    "status": "Posted"
+  },
+  {
+    "country": "Zambia",
+    "accountNo": "2000",
+    "description": "SME lending disbursement",
+    "debit": "ZMW 0",
+    "credit": "ZMW 1.5M",
+    "status": "Posted"
+  }
+]

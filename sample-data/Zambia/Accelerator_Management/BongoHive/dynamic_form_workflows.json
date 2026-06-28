@@ -1,0 +1,14 @@
+[
+  {
+    "country": "Zambia",
+    "institutionType": "Accelerator_Management",
+    "institutionName": "BongoHive",
+    "formName": "Startup application",
+    "stepOrder": 1,
+    "stepName": "Initial screening",
+    "approverRole": "Admissions",
+    "action": "Review startup fit",
+    "status": "Ready",
+    "lastUpdated": "2026-06-26T10:10:00Z"
+  }
+]

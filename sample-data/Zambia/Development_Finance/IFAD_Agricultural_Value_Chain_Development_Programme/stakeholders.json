@@ -1,0 +1,38 @@
+[
+  {
+    "name": "International Fund for Agricultural Development",
+    "role": "Lead partner",
+    "focus": "Rural transformation and agricultural value chains",
+    "country": "Global"
+  },
+  {
+    "name": "Gouvernement de Côte d'Ivoire",
+    "role": "Peer partner",
+    "focus": "Country-led agricultural value chain delivery",
+    "country": "Cote d'Ivoire"
+  },
+  {
+    "name": "European Investment Bank",
+    "role": "Financing partner",
+    "focus": "Long-term funding and technical assistance",
+    "country": "Europe"
+  },
+  {
+    "name": "Ministry of Agriculture",
+    "role": "Government partner",
+    "focus": "Policy coordination and implementation support",
+    "country": "Zambia"
+  },
+  {
+    "name": "Rural Farmers Cooperatives",
+    "role": "Delivery partner",
+    "focus": "Smallholder aggregation and local production",
+    "country": "Zambia"
+  },
+  {
+    "name": "Agrifood Processors Association",
+    "role": "Private sector partner",
+    "focus": "Mango processing, rice milling, and market access",
+    "country": "Zambia"
+  }
+]

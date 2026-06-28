@@ -1,0 +1,26 @@
+[
+  {
+    "country": "Zambia",
+    "institutionType": "Development_Finance",
+    "institutionName": "Development_Bank_of_Zambia",
+    "formName": "Project appraisal form",
+    "stepOrder": 1,
+    "stepName": "Intake validation",
+    "approverRole": "Application review",
+    "action": "Check completeness",
+    "status": "Ready",
+    "lastUpdated": "2026-06-26T10:10:00Z"
+  },
+  {
+    "country": "Zambia",
+    "institutionType": "Development_Finance",
+    "institutionName": "Development_Bank_of_Zambia",
+    "formName": "Project appraisal form",
+    "stepOrder": 2,
+    "stepName": "Credit committee approval",
+    "approverRole": "Credit committee",
+    "action": "Approve or reject",
+    "status": "Ready",
+    "lastUpdated": "2026-06-26T10:20:00Z"
+  }
+]

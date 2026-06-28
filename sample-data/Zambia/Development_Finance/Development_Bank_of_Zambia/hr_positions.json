@@ -1,0 +1,16 @@
+[
+  {
+    "country": "Zambia",
+    "title": "Credit Analyst",
+    "department": "Risk",
+    "headcount": 3,
+    "status": "Open"
+  },
+  {
+    "country": "Zambia",
+    "title": "Programme Manager",
+    "department": "Development Finance",
+    "headcount": 2,
+    "status": "Open"
+  }
+]

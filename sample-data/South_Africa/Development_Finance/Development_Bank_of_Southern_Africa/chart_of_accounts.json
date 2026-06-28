@@ -1,0 +1,16 @@
+[
+  {
+    "country": "South_Africa",
+    "code": "1000",
+    "name": "Assets",
+    "category": "Balance Sheet",
+    "status": "Active"
+  },
+  {
+    "country": "South_Africa",
+    "code": "2000",
+    "name": "Liabilities",
+    "category": "Balance Sheet",
+    "status": "Active"
+  }
+]
