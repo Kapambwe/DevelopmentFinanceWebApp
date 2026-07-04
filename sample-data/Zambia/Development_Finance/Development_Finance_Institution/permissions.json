@@ -1,0 +1,25 @@
+{
+  "permissions": [
+    "App.Access",
+    "DevelopmentFinance.Access",
+    "DevelopmentFinance.Dashboard.View",
+    "DevelopmentFinance.Institution.View",
+    "DevelopmentFinance.Empowerment.View",
+    "DevelopmentFinance.VentureCapital.View",
+    "DevelopmentFinance.AcceleratorManagement.View",
+    "DevelopmentFinance.Accounting.View",
+    "DevelopmentFinance.HumanResources.View",
+    "DevelopmentFinance.DynamicForms.View",
+    "DevelopmentFinance.DynamicForms.Review",
+    "DevelopmentFinance.DigitalTokens.View",
+    "Banking.Access",
+    "Banking.Regulatory.View",
+    "Banking.DynamicForms.View",
+    "Banking.DynamicForms.ViewQueue",
+    "Banking.DynamicForms.Review",
+    "Banking.DynamicForms.ViewDesigner",
+    "Banking.DynamicForms.ViewHistory",
+    "Banking.VentureCapital.View",
+    "Banking.Insurance.View"
+  ]
+}
