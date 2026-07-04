@@ -1,18 +1,18 @@
 [
   {
     "country": "Zambia",
-    "company": "AgriNova Zambia",
+    "company": "Chilanga Foods",
     "stage": "Seed",
-    "ticketSize": "ZMW 2.5M",
-    "sector": "Agritech",
+    "ticketSize": "ZMW 1.4M",
+    "sector": "Consumer Goods",
     "status": "Active"
   },
   {
     "country": "Zambia",
-    "company": "MobiPay Zambia",
+    "company": "SokoPay",
     "stage": "Series A",
-    "ticketSize": "ZMW 8.0M",
-    "sector": "Fintech",
+    "ticketSize": "ZMW 6.8M",
+    "sector": "FinTech",
     "status": "Pipeline"
   }
 ]

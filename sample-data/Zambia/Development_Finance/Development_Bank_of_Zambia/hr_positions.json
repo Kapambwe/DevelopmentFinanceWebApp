@@ -1,16 +1,16 @@
 [
   {
     "country": "Zambia",
-    "title": "Credit Analyst",
-    "department": "Risk",
-    "headcount": 3,
+    "title": "Senior Credit Analyst",
+    "department": "Credit Risk",
+    "headcount": 2,
     "status": "Open"
   },
   {
     "country": "Zambia",
-    "title": "Programme Manager",
-    "department": "Development Finance",
-    "headcount": 2,
+    "title": "Stakeholder Engagement Lead",
+    "department": "Corporate Strategy",
+    "headcount": 1,
     "status": "Open"
   }
 ]

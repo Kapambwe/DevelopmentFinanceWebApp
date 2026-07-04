@@ -2,15 +2,15 @@
   {
     "country": "Zambia",
     "name": "Moses Banda",
-    "position": "Credit Analyst",
-    "department": "Risk",
+    "position": "Portfolio Analyst",
+    "department": "Credit Risk",
     "status": "Active"
   },
   {
     "country": "Zambia",
     "name": "Linda Phiri",
     "position": "Programme Manager",
-    "department": "Development Finance",
+    "department": "Corporate Strategy",
     "status": "Active"
   }
 ]

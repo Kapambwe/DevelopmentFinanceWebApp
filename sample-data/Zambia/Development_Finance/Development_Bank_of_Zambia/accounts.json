@@ -2,7 +2,7 @@
   {
     "country": "Zambia",
     "accountNo": "1000",
-    "accountName": "Cash and Cash Equivalents",
+    "accountName": "Liquidity Reserve Account",
     "accountType": "Asset",
     "balance": "ZMW 38.2M",
     "status": "Active"
@@ -10,7 +10,7 @@
   {
     "country": "Zambia",
     "accountNo": "2000",
-    "accountName": "Development Loan Book",
+    "accountName": "SME Development Loan Book",
     "accountType": "Asset",
     "balance": "ZMW 1.2B",
     "status": "Active"
@@ -18,7 +18,7 @@
   {
     "country": "Zambia",
     "accountNo": "3000",
-    "accountName": "Grant Reserve",
+    "accountName": "Capital Preservation Reserve",
     "accountType": "Equity",
     "balance": "ZMW 65.0M",
     "status": "Active"
