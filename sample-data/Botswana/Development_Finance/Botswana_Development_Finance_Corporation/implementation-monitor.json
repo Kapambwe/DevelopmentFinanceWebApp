@@ -1,0 +1,44 @@
+{
+  "institutionName": "Botswana Development Finance Corporation",
+  "title": "Implementation Monitor",
+  "description": "Tracks SMME growth, youth enterprise, and inclusive finance delivery.",
+  "requiredFiles": [
+    "institution-info.json",
+    "permissions.json",
+    "role-permissions.json",
+    "dynamic_forms_templates.json",
+    "dynamic_forms_submissions.json",
+    "digital-tokens.json",
+    "verifiable-credentials.json",
+    "beneficiary_organizations.json"
+  ],
+  "items": [
+    {
+      "key": "smme-growth",
+      "name": "SMME growth finance",
+      "status": "Done",
+      "category": "SME support",
+      "beneficiaryOrganization": "Gaborone Youth Enterprise Hub",
+      "evidencePath": "verifiable-credentials.json",
+      "notes": "Growth capital and mentoring"
+    },
+    {
+      "key": "youth-enterprise",
+      "name": "Youth enterprise financing",
+      "status": "Partial",
+      "category": "Youth employment",
+      "beneficiaryOrganization": "Francistown SMME Cluster",
+      "evidencePath": "dynamic_forms_templates.json",
+      "notes": "Startup lending and procurement access"
+    },
+    {
+      "key": "digital-inclusion",
+      "name": "Inclusive finance access",
+      "status": "Done",
+      "category": "Payments access",
+      "beneficiaryOrganization": "Molepolole Women Traders Cooperative",
+      "evidencePath": "digital-tokens.json",
+      "notes": "Digital finance and inventory support"
+    }
+  ]
+}

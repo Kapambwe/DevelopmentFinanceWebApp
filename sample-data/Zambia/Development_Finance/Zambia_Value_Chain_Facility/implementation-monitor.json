@@ -1,0 +1,50 @@
+{
+  "institutionName": "Zambia Value Chain Facility",
+  "title": "Implementation Monitor",
+  "description": "Tracks poverty-reduction and financial-inclusion implementation for smallholders, women-led SMEs, and rural merchants.",
+  "requiredFiles": [
+    "institution-info.json",
+    "permissions.json",
+    "role-permissions.json",
+    "lifecycle.json",
+    "dynamic_forms_templates.json",
+    "dynamic_forms_submissions.json",
+    "dynamic_form_workflows.json",
+    "digital-tokens.json",
+    "partner_banks.json",
+    "implementation_partners.json",
+    "funding_instruments.json",
+    "impact_metrics.json",
+    "verifiable-credentials.json",
+    "beneficiary_organizations.json"
+  ],
+  "items": [
+    {
+      "key": "smallholder-access",
+      "name": "Smallholder aggregator onboarding",
+      "status": "Done",
+      "category": "Agricultural inclusion",
+      "beneficiaryOrganization": "Lusaka Smallholder Aggregators Cooperative",
+      "evidencePath": "verifiable-credentials.json",
+      "notes": "Supports structured off-take finance and market access"
+    },
+    {
+      "key": "women-led-agro",
+      "name": "Women-led agro-processor finance",
+      "status": "Done",
+      "category": "Women-owned SME finance",
+      "beneficiaryOrganization": "Copperbelt Women Agro-Processors Association",
+      "evidencePath": "verifiable-credentials.json",
+      "notes": "Provides working capital and supply-chain finance"
+    },
+    {
+      "key": "rural-merchants",
+      "name": "Rural merchant acceptance",
+      "status": "Partial",
+      "category": "Digital inclusion",
+      "beneficiaryOrganization": "Eastern Rural Merchants Alliance",
+      "evidencePath": "digital-tokens.json",
+      "notes": "Expanding merchant acceptance in underserved trading centers"
+    }
+  ]
+}

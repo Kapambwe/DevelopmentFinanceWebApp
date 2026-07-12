@@ -1,0 +1,34 @@
+[
+  {
+    "programName": "Agribusiness Supply Chain Facility",
+    "partnerInstitution": "Zambia Value Chain Facility",
+    "partnershipType": "Commercial co-financing",
+    "status": "Signed",
+    "startDate": "2026-06-15",
+    "endDate": "2029-06-14",
+    "renewalPolicy": "Annual review of portfolio performance and inclusion outcomes",
+    "impactAreas": [
+      "Food security",
+      "SME finance",
+      "Rural inclusion",
+      "Working capital"
+    ],
+    "beneficiaryGroups": [
+      "Smallholder farmers",
+      "Agro-processors",
+      "Transport providers",
+      "Retail merchants"
+    ]
+  },
+  {
+    "programName": "Zambia Value Chain Facility",
+    "partnerInstitution": "Zambia Value Chain Facility",
+    "partnershipType": "Risk sharing and SME lending",
+    "status": "Signed",
+    "startDate": "2026-01-01",
+    "endDate": "2028-12-31",
+    "renewalPolicy": "Renew annually after portfolio review",
+    "impactAreas": ["Poverty reduction", "Financial inclusion", "Agrifood finance", "Women-led enterprise lending"],
+    "beneficiaryGroups": ["Smallholder farmers", "Rural cooperatives", "Women-owned SMEs", "Youth-led enterprises"]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "programName": "Zambeef Expansion Risk Sharing Facility",
+    "partnerInstitution": "Zambeef Products Plc",
+    "partnershipType": "Risk-sharing credit guarantee",
+    "status": "Board Approved",
+    "startDate": "2026-07-01",
+    "endDate": "2029-06-30",
+    "renewalPolicy": "Subject to regulatory completion, annual portfolio review, and impact validation",
+    "impactAreas": [
+      "Food security",
+      "Poverty reduction",
+      "Financial inclusion",
+      "Private sector participation",
+      "Job creation for women and youth"
+    ],
+    "beneficiaryGroups": [
+      "Smallholder maize growers",
+      "Livestock suppliers",
+      "Animal feed producers",
+      "Processing workers",
+      "Retail customers"
+    ]
+  },
+  {
+    "programName": "Partial Portfolio Guarantee Window",
+    "partnerInstitution": "Partner Banks",
+    "partnershipType": "Guarantee support",
+    "status": "Signed",
+    "startDate": "2026-03-01",
+    "endDate": "2029-02-28",
+    "renewalPolicy": "Renew on completion of annual portfolio and impact review",
+    "impactAreas": [
+      "Poverty reduction",
+      "Financial inclusion",
+      "Risk sharing",
+      "SME credit expansion"
+    ],
+    "beneficiaryGroups": [
+      "Micro and small enterprises",
+      "Women-led businesses",
+      "Agrifood traders",
+      "Informal-to-formal transition businesses"
+    ]
+  }
+]

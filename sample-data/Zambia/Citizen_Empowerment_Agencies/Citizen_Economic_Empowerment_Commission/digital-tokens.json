@@ -52,5 +52,32 @@
     "isTransferable": true,
     "isDivisible": true,
     "assetCategory": 11
+  },
+  {
+    "tokenId": "0f7f4c49-4d53-497e-8f2e-0c1f1dcb0001",
+    "tokenSymbol": "CITIZEN_ECONOMIC_EMPOWERMENT_COMMISSION-TOK-003",
+    "tokenName": "Citizen Economic Empowerment Voucher Token",
+    "tokenType": 12,
+    "status": 2,
+    "issuingInstitution": "Citizen_Economic_Empowerment_Commission",
+    "issuerRole": 1,
+    "totalSupply": 180000.0,
+    "circulatingSupply": 76000.0,
+    "tokenPrice": 8.0,
+    "currency": "ZMW",
+    "issueDate": "2026-06-29T00:00:00Z",
+    "maturityDate": "2027-06-29T00:00:00Z",
+    "underlyingAsset": "Beneficiary support pool",
+    "description": "Voucher token for beneficiary onboarding, subsidy allocation, and enterprise support.",
+    "blockchain": "Empowerment voucher registry",
+    "smartContractAddress": "SC-citizen_economic_empowerment_commission-003",
+    "marketCap": 1440000.0,
+    "dailyVolume": 4800.0,
+    "priceChange24h": 0.03,
+    "jurisdiction": "Zambia",
+    "regulatoryFramework": "Empowerment Fund Act; Voucher Token Rules",
+    "isTransferable": false,
+    "isDivisible": false,
+    "assetCategory": "Other"
   }
 ]

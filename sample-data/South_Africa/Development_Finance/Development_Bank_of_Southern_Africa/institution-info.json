@@ -1,17 +1,7 @@
 {
-  "registrationNumber": "REG-DBSA-001",
-  "contactEmail": "info@dbsa.org",
-  "createdAt": "1997-01-01T00:00:00Z",
-  "branches": 5,
+  "country": "South_Africa",
   "institutionType": "Development_Finance",
   "institutionName": "Development_Bank_of_Southern_Africa",
-  "country": "South_Africa",
-  "established": 1997,
-  "employees": 418,
-  "contactPhone": "+27112151500",
-  "headquarters": "Midrand",
-  "institutionId": "dbsa-0001",
-  "currency": "ZAR",
-  "status": "Active",
-  "website": "https://www.dbsa.org/"
+  "programName": "DBSA Partnership Programs",
+  "description": "Development finance partner supporting infrastructure, climate resilience, and inclusive growth."
 }

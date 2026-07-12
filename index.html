@@ -9,7 +9,7 @@
     <meta http-equiv="Expires" content="0" />
     <title>DevelopmentFinanceWebApp</title>
     <base href="/DevelopmentFinanceWebApp/" />
-    <link href="_framework/dotnet.kbvobnnz48.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-kItBbzA66oswBeiFaZhIZC6veiUbiJXvgIh80Cn0QpM=" />
+    <link href="_framework/dotnet.wzztbi14bh.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-fN6FFWjKVUl5FwCij+0H38Lc0M8CPulmAtGjgZQOhVw=" />
     <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
     <link href="_content/Radzen.Blazor/css/material-base.css" rel="stylesheet" />
     <link rel="stylesheet" href="css/app.css" />
@@ -18,20 +18,20 @@
     <script type="importmap">{
   "imports": {
     "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.958z1vx7fr.js",
-    "./_framework/dotnet.js": "./_framework/dotnet.kbvobnnz48.js",
     "./_framework/dotnet.native.js": "./_framework/dotnet.native.eylx2ku5qd.js",
-    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.a6jcqbs390.js"
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.a6jcqbs390.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.wzztbi14bh.js"
   },
   "scopes": {},
   "integrity": {
     "./_framework/blazor.webassembly.958z1vx7fr.js": "sha256-A59Tr9HqEhHMu8kU7kruLI9ayw5MRS6Lvc6z7jCbghk=",
     "./_framework/blazor.webassembly.js": "sha256-A59Tr9HqEhHMu8kU7kruLI9ayw5MRS6Lvc6z7jCbghk=",
-    "./_framework/dotnet.js": "sha256-kItBbzA66oswBeiFaZhIZC6veiUbiJXvgIh80Cn0QpM=",
-    "./_framework/dotnet.kbvobnnz48.js": "sha256-kItBbzA66oswBeiFaZhIZC6veiUbiJXvgIh80Cn0QpM=",
+    "./_framework/dotnet.js": "sha256-fN6FFWjKVUl5FwCij+0H38Lc0M8CPulmAtGjgZQOhVw=",
     "./_framework/dotnet.native.eylx2ku5qd.js": "sha256-muCmmkO3yPnMift+VhsCysdF7DnzqlmcDvB7ml+7L/E=",
     "./_framework/dotnet.native.js": "sha256-muCmmkO3yPnMift+VhsCysdF7DnzqlmcDvB7ml+7L/E=",
     "./_framework/dotnet.runtime.a6jcqbs390.js": "sha256-7i3usfTrnzC/9qWO4si5Bw4w7D9fUSnSBdhQ47blX2M=",
-    "./_framework/dotnet.runtime.js": "sha256-7i3usfTrnzC/9qWO4si5Bw4w7D9fUSnSBdhQ47blX2M="
+    "./_framework/dotnet.runtime.js": "sha256-7i3usfTrnzC/9qWO4si5Bw4w7D9fUSnSBdhQ47blX2M=",
+    "./_framework/dotnet.wzztbi14bh.js": "sha256-fN6FFWjKVUl5FwCij+0H38Lc0M8CPulmAtGjgZQOhVw="
   }
 }</script>
 </head>
@@ -51,6 +51,19 @@
         <span class="dismiss">ðŸ—™</span>
     </div>
     <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
+    <script>
+        window.downloadTextFile = (fileName, content, contentType) => {
+            const blob = new Blob([content], { type: contentType || 'text/plain;charset=utf-8' });
+            const url = URL.createObjectURL(blob);
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = fileName;
+            document.body.appendChild(link);
+            link.click();
+            link.remove();
+            URL.revokeObjectURL(url);
+        };
+    </script>
     <script src="_framework/blazor.webassembly.958z1vx7fr.js"></script>
 </body>
 

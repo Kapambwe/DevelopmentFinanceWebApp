@@ -1,0 +1,77 @@
+{
+  "institutionType": "Accelerator_Management",
+  "institutionName": "BongoHive",
+  "country": "Zambia",
+  "description": "Role-to-permission mapping for BongoHive sample data.",
+  "version": "1.0.0",
+  "roles": [
+    {
+      "roleName": "ProgrammeManager",
+      "permissions": [
+        "DevelopmentFinance.Access",
+        "DevelopmentFinance.Dashboard.View",
+        "DevelopmentFinance.AcceleratorManagement.View",
+        "DevelopmentFinance.AcceleratorManagement.ManageCohorts",
+        "DevelopmentFinance.AcceleratorManagement.ManageApplications",
+        "DevelopmentFinance.AcceleratorManagement.ManageMentors",
+        "DevelopmentFinance.DynamicForms.View",
+        "DevelopmentFinance.DynamicForms.Manage",
+        "DevelopmentFinance.DynamicForms.Review",
+        "DevelopmentFinance.Consent.View",
+        "DevelopmentFinance.DecisioningEngine.View",
+        "DevelopmentFinance.DigitalTokens.View",
+        "DevelopmentFinance.DigitalTokens.Issue",
+        "DevelopmentFinance.DigitalTokens.Manage"
+      ]
+    },
+    {
+      "roleName": "MentorCoordinator",
+      "permissions": [
+        "DevelopmentFinance.Access",
+        "DevelopmentFinance.Dashboard.View",
+        "DevelopmentFinance.AcceleratorManagement.View",
+        "DevelopmentFinance.AcceleratorManagement.ManageMentors",
+        "DevelopmentFinance.DynamicForms.View",
+        "DevelopmentFinance.DynamicForms.Manage",
+        "DevelopmentFinance.DynamicForms.Review",
+        "DevelopmentFinance.Consent.View",
+        "DevelopmentFinance.DecisioningEngine.View",
+        "DevelopmentFinance.DigitalTokens.View"
+      ]
+    },
+    {
+      "roleName": "CommunityLead",
+      "permissions": [
+        "DevelopmentFinance.Access",
+        "DevelopmentFinance.Dashboard.View",
+        "DevelopmentFinance.AcceleratorManagement.View",
+        "DevelopmentFinance.AcceleratorManagement.ManageApplications",
+        "DevelopmentFinance.DynamicForms.View",
+        "DevelopmentFinance.DynamicForms.Manage",
+        "DevelopmentFinance.DynamicForms.Review",
+        "DevelopmentFinance.Consent.View",
+        "DevelopmentFinance.DecisioningEngine.View",
+        "DevelopmentFinance.DigitalTokens.View"
+      ]
+    },
+    {
+      "roleName": "Admin",
+      "permissions": [
+        "DevelopmentFinance.Access",
+        "DevelopmentFinance.Dashboard.View",
+        "DevelopmentFinance.AcceleratorManagement.View",
+        "DevelopmentFinance.AcceleratorManagement.ManageCohorts",
+        "DevelopmentFinance.AcceleratorManagement.ManageApplications",
+        "DevelopmentFinance.AcceleratorManagement.ManageMentors",
+        "DevelopmentFinance.DynamicForms.View",
+        "DevelopmentFinance.DynamicForms.Manage",
+        "DevelopmentFinance.DynamicForms.Review",
+        "DevelopmentFinance.Consent.View",
+        "DevelopmentFinance.DecisioningEngine.View",
+        "DevelopmentFinance.DigitalTokens.View",
+        "DevelopmentFinance.DigitalTokens.Issue",
+        "DevelopmentFinance.DigitalTokens.Manage"
+      ]
+    }
+  ]
+}

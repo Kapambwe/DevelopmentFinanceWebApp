@@ -1,0 +1,34 @@
+[
+  {
+    "programName": "Zambeef Expansion Risk Sharing Facility",
+    "partnerInstitution": "Zambia Value Chain Facility",
+    "partnershipType": "Risk-sharing credit guarantee",
+    "status": "Board Approved",
+    "startDate": "2026-07-01",
+    "endDate": "2029-06-30",
+    "renewalPolicy": "Subject to regulatory completion, annual portfolio review, and impact validation",
+    "impactAreas": [
+      "Food security",
+      "Agricultural value-chain expansion",
+      "Local currency lending",
+      "Private sector participation"
+    ],
+    "beneficiaryGroups": [
+      "Zambeef Products Plc",
+      "Smallholder suppliers",
+      "Livestock producers",
+      "Retail food consumers"
+    ]
+  },
+  {
+    "programName": "Partial Portfolio Guarantee Window",
+    "partnerInstitution": "Zambia Value Chain Facility",
+    "partnershipType": "Guarantee support",
+    "status": "Signed",
+    "startDate": "2026-03-01",
+    "endDate": "2029-02-28",
+    "renewalPolicy": "Renew on completion of annual portfolio and impact review",
+    "impactAreas": ["Poverty reduction", "Financial inclusion", "Risk sharing", "SME credit expansion"],
+    "beneficiaryGroups": ["Micro and small enterprises", "Women-led businesses", "Agrifood traders", "Informal-to-formal transition businesses"]
+  }
+]

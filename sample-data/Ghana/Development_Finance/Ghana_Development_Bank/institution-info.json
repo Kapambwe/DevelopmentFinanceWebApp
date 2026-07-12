@@ -1,8 +1,7 @@
-[
-  {
-    "name": "Ghana Development Bank",
-    "country": "Ghana",
-    "sector": "Development finance",
-    "focus": "Agriculture, export, and SME finance"
-  }
-]
+{
+  "country": "Ghana",
+  "institutionType": "Development_Finance",
+  "institutionName": "Ghana_Development_Bank",
+  "programName": "Ghana Development Bank Partnership Programs",
+  "description": "Development finance partner supporting agriculture, export growth, and inclusive enterprise finance."
+}

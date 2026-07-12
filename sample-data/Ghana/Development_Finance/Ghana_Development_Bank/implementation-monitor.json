@@ -1,0 +1,45 @@
+{
+  "institutionName": "Ghana Development Bank",
+  "title": "Implementation Monitor",
+  "description": "Tracks SME, agriculture, and financial inclusion delivery outcomes for the active institution.",
+  "requiredFiles": [
+    "institution-info.json",
+    "permissions.json",
+    "role-permissions.json",
+    "dynamic_forms_templates.json",
+    "dynamic_forms_submissions.json",
+    "dynamic_form_workflows.json",
+    "digital-tokens.json",
+    "verifiable-credentials.json",
+    "beneficiary_organizations.json"
+  ],
+  "items": [
+    {
+      "key": "sme-growth",
+      "name": "Microenterprise finance",
+      "status": "Done",
+      "category": "SME support",
+      "beneficiaryOrganization": "Accra Micro and Small Enterprise Network",
+      "evidencePath": "verifiable-credentials.json",
+      "notes": "Inclusive lending to micro and small enterprises"
+    },
+    {
+      "key": "agri-value-chain",
+      "name": "Agricultural value chain finance",
+      "status": "Partial",
+      "category": "Rural finance",
+      "beneficiaryOrganization": "Northern Smallholder Rice Growers Union",
+      "evidencePath": "dynamic_forms_templates.json",
+      "notes": "Supporting smallholders, aggregators, and first-mile buyers"
+    },
+    {
+      "key": "digital-inclusion",
+      "name": "Digital financial inclusion",
+      "status": "Done",
+      "category": "Payments access",
+      "beneficiaryOrganization": "Ashanti Women Entrepreneurs Collective",
+      "evidencePath": "digital-tokens.json",
+      "notes": "Expanding account access and digital payments"
+    }
+  ]
+}

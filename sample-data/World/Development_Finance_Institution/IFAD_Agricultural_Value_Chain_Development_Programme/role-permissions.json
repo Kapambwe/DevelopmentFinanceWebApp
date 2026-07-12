@@ -1,0 +1,33 @@
+[
+  {
+    "role": "Programme Administrator",
+    "permissions": [
+      "App.Access",
+      "ProjectPipeline.View",
+      "ProjectPipeline.Edit",
+      "CoFinancing.View",
+      "DigitalTokens.View",
+      "DynamicForms.View",
+      "DynamicForms.Review",
+      "Regulatory.View"
+    ]
+  },
+  {
+    "role": "Field Officer",
+    "permissions": [
+      "App.Access",
+      "ProjectPipeline.View",
+      "DynamicForms.View"
+    ]
+  },
+  {
+    "role": "Portfolio Analyst",
+    "permissions": [
+      "App.Access",
+      "ProjectPipeline.View",
+      "CoFinancing.View",
+      "DigitalTokens.View",
+      "Regulatory.View"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Zambeef Products Plc",
+    "sector": "Agribusiness",
+    "location": "Lusaka and Central Province",
+    "supportType": "Risk-sharing credit guarantee and expansion finance",
+    "impactFocus": "Food security, GDP contribution, and integrated value-chain growth"
+  },
+  {
+    "name": "Smallholder Maize Growers Network",
+    "sector": "Agriculture",
+    "location": "Southern Province",
+    "supportType": "Input finance and offtake linkage",
+    "impactFocus": "Farmer incomes, market access, and poverty reduction"
+  },
+  {
+    "name": "Livestock and Feed Suppliers Consortium",
+    "sector": "Agriculture",
+    "location": "Copperbelt and Central Province",
+    "supportType": "Supply-chain working capital",
+    "impactFocus": "Production resilience and local processing capacity"
+  }
+]

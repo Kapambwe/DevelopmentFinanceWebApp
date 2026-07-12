@@ -1,10 +1,273 @@
 [
   {
-    "tokenName": "Implementation partner access token",
-    "status": "Active"
+    "id": "zambia-vcf-pt-001",
+    "tokenType": "ProgramAccessToken",
+    "name": "Value chain partner access token",
+    "tokenName": "Value chain partner access token",
+    "status": "Active",
+    "industry": "Development Finance",
+    "issuer": "Zambia Value Chain Facility",
+    "issuerType": "DFI",
+    "instrument": "Partner onboarding entitlement",
+    "issuedAt": "2026-06-22T08:00:00Z",
+    "route": "/digital-tokens/marketplace",
+    "useCase": "Implementation partner onboarding",
+    "visibility": "Institution",
+    "isFinancialSectorInvestable": false,
+    "investmentAudience": "Implementation partners and technical assistance teams",
+    "signatureChain": [
+      {
+        "step": "Partner due diligence approved",
+        "signer": "Partnerships Desk",
+        "signerType": "Development Finance Institution",
+        "role": "Issuer",
+        "signedAt": "2026-06-22T07:00:00Z",
+        "method": "Policy signature",
+        "status": "Signed",
+        "verificationReference": "ZVCF-VC-001",
+        "did": "did:dfi:zambia-vcf"
+      }
+    ],
+    "ownershipHistory": [
+      {
+        "effectiveAt": "2026-06-22T08:00:00Z",
+        "holder": "Zambia Value Chain Facility",
+        "holderType": "Institution",
+        "event": "Issued",
+        "ownershipShare": "100%",
+        "reference": "ZVCF-OWN-001"
+      }
+    ]
   },
   {
+    "id": "zambia-vcf-sc-001",
+    "tokenType": "SupplyChainToken",
+    "name": "Warehouse receipt token",
+    "tokenName": "Warehouse receipt token",
+    "status": "Issued",
+    "industry": "Development Finance",
+    "issuer": "Zambia Value Chain Facility",
+    "issuerType": "DFI",
+    "instrument": "Inventory collateral",
+    "issuedAt": "2026-06-19T10:45:00Z",
+    "route": "/digital-tokens/marketplace",
+    "useCase": "Maize warehouse financing",
+    "visibility": "Financial Sector",
+    "isFinancialSectorInvestable": true,
+    "investmentAudience": "Partner banks, warehouse operators, and traders",
+    "signatureChain": [
+      {
+        "step": "Warehouse inspection completed",
+        "signer": "Warehouse Network",
+        "signerType": "Logistics Partner",
+        "role": "Verifier",
+        "signedAt": "2026-06-19T08:30:00Z",
+        "method": "Digital signature",
+        "status": "Signed",
+        "verificationReference": "ZVCF-VC-004",
+        "did": "did:logistics:warehouse"
+      },
+      {
+        "step": "Credit line approved",
+        "signer": "Credit Committee",
+        "signerType": "DFI",
+        "role": "Approver",
+        "signedAt": "2026-06-19T09:45:00Z",
+        "method": "QES",
+        "status": "Signed",
+        "verificationReference": "ZVCF-VC-005",
+        "did": "did:dfi:credit"
+      }
+    ],
+    "ownershipHistory": [
+      {
+        "effectiveAt": "2026-06-19T10:45:00Z",
+        "holder": "Warehouse Operator",
+        "holderType": "Partner",
+        "event": "Created",
+        "ownershipShare": "100%",
+        "reference": "ZVCF-OWN-003"
+      }
+    ]
+  },
+  {
+    "id": "zambia-vcf-gt-001",
+    "tokenType": "GuaranteeToken",
+    "name": "Facility guarantee token",
     "tokenName": "Facility guarantee token",
-    "status": "Issued"
+    "status": "Issued",
+    "industry": "Development Finance",
+    "issuer": "Zambia Value Chain Facility",
+    "issuerType": "DFI",
+    "instrument": "Guarantee backing",
+    "issuedAt": "2026-06-20T11:30:00Z",
+    "route": "/digital-tokens/marketplace",
+    "useCase": "Risk sharing for agribusiness finance",
+    "visibility": "Financial Sector",
+    "isFinancialSectorInvestable": true,
+    "investmentAudience": "Partner banks and blended-finance investors",
+    "signatureChain": [
+      {
+        "step": "Guarantee approved",
+        "signer": "Risk Committee",
+        "signerType": "DFI",
+        "role": "Approver",
+        "signedAt": "2026-06-20T09:15:00Z",
+        "method": "QES",
+        "status": "Signed",
+        "verificationReference": "ZVCF-VC-002",
+        "did": "did:dfi:risk"
+      }
+    ],
+    "ownershipHistory": [
+      {
+        "effectiveAt": "2026-06-20T11:30:00Z",
+        "holder": "Partner Bank",
+        "holderType": "Financial Institution",
+        "event": "Accepted",
+        "ownershipShare": "100%",
+        "reference": "ZVCF-OWN-002"
+      }
+    ]
+  },
+  {
+    "id": "zambia-vcf-gt-zambeef-001",
+    "tokenType": "GuaranteeToken",
+    "name": "Zambeef expansion guarantee token",
+    "tokenName": "Zambeef expansion guarantee token",
+    "status": "Approved",
+    "industry": "Development Finance",
+    "issuer": "Zambia Value Chain Facility",
+    "issuerType": "DFI",
+    "instrument": "Local currency risk-sharing guarantee",
+    "issuedAt": "2026-07-01T09:00:00Z",
+    "route": "/digital-tokens/marketplace",
+    "useCase": "Zambeef expansion programme support",
+    "visibility": "Financial Sector",
+    "isFinancialSectorInvestable": true,
+    "investmentAudience": "Commercial banks and blended-finance partners",
+    "signatureChain": [
+      {
+        "step": "Guarantee approved by board",
+        "signer": "Credit and Risk Committee",
+        "signerType": "DFI",
+        "role": "Approver",
+        "signedAt": "2026-07-01T08:00:00Z",
+        "method": "Policy signature",
+        "status": "Signed",
+        "verificationReference": "ZVCF-ZMB-001",
+        "did": "did:dfi:zambeef"
+      }
+    ],
+    "ownershipHistory": [
+      {
+        "effectiveAt": "2026-07-01T09:00:00Z",
+        "holder": "Absa Bank Zambia",
+        "holderType": "Financial Institution",
+        "event": "Accepted",
+        "ownershipShare": "100%",
+        "reference": "ZVCF-ZMB-OWN-001"
+      }
+    ]
+  },
+  {
+    "id": "zambia-vcf-milestone-001",
+    "tokenType": "MilestoneToken",
+    "name": "Cooperative milestone token",
+    "tokenName": "Cooperative milestone token",
+    "status": "Pending",
+    "industry": "Development Finance",
+    "issuer": "Zambia Value Chain Facility",
+    "issuerType": "DFI",
+    "instrument": "Milestone verification",
+    "issuedAt": "2026-06-23T10:00:00Z",
+    "route": "/digital-tokens/issuance",
+    "useCase": "Farmer cooperative milestone approval",
+    "visibility": "Institution",
+    "isFinancialSectorInvestable": false,
+    "investmentAudience": "Implementation managers",
+    "signatureChain": [
+      {
+        "step": "Field verification completed",
+        "signer": "M&E Officer",
+        "signerType": "Program Team",
+        "role": "Verifier",
+        "signedAt": "2026-06-23T09:20:00Z",
+        "method": "Digital signature",
+        "status": "Signed",
+        "verificationReference": "ZVCF-VC-003",
+        "did": "did:dfi:monitoring"
+      }
+    ]
+  },
+  {
+    "id": "zambia-vcf-tx-001",
+    "tokenType": "ImpactToken",
+    "name": "Smallholder inclusion impact token",
+    "tokenName": "Smallholder inclusion impact token",
+    "status": "Issued",
+    "industry": "Development Finance",
+    "issuer": "Zambia Value Chain Facility",
+    "issuerType": "DFI",
+    "instrument": "Impact reporting",
+    "issuedAt": "2026-06-18T14:30:00Z",
+    "route": "/digital-tokens/transactions",
+    "useCase": "Track lending to smallholder aggregators",
+    "visibility": "Financial Sector",
+    "isFinancialSectorInvestable": false,
+    "investmentAudience": "Development partners and monitoring teams",
+    "signatureChain": [
+      {
+        "step": "Impact baseline validated",
+        "signer": "M&E Unit",
+        "signerType": "Program Team",
+        "role": "Verifier",
+        "signedAt": "2026-06-18T13:40:00Z",
+        "method": "Policy signature",
+        "status": "Signed",
+        "verificationReference": "ZVCF-VC-006",
+        "did": "did:dfi:me"
+      }
+    ],
+    "ownershipHistory": [
+      {
+        "effectiveAt": "2026-06-18T14:30:00Z",
+        "holder": "Monitoring Office",
+        "holderType": "Institution",
+        "event": "Recorded",
+        "ownershipShare": "100%",
+        "reference": "ZVCF-OWN-004"
+      }
+    ]
+  },
+  {
+    "id": "zambia-vcf-iss-001",
+    "tokenType": "GrantToken",
+    "name": "Processing grant token",
+    "tokenName": "Processing grant token",
+    "status": "Pending",
+    "industry": "Development Finance",
+    "issuer": "Zambia Value Chain Facility",
+    "issuerType": "DFI",
+    "instrument": "Subsidy approval",
+    "issuedAt": "2026-06-24T09:00:00Z",
+    "route": "/digital-tokens/issuance",
+    "useCase": "Post-harvest processing support",
+    "visibility": "Institution",
+    "isFinancialSectorInvestable": false,
+    "investmentAudience": "Program managers and approvals team",
+    "signatureChain": [
+      {
+        "step": "Beneficiary screening completed",
+        "signer": "Operations Desk",
+        "signerType": "Program Team",
+        "role": "Reviewer",
+        "signedAt": "2026-06-24T08:10:00Z",
+        "method": "Digital signature",
+        "status": "Signed",
+        "verificationReference": "ZVCF-VC-007",
+        "did": "did:dfi:ops"
+      }
+    ]
   }
 ]

@@ -1,0 +1,5 @@
+[
+  { "name": "Eastern Cape Manufacturing Cluster", "sector": "Manufacturing", "location": "Eastern Cape", "supportType": "Growth capital and market linkage", "impactFocus": "Jobs and income growth" },
+  { "name": "KwaZulu-Natal Agro Processors Hub", "sector": "Agriculture", "location": "KwaZulu-Natal", "supportType": "Equipment finance and scale-up capital", "impactFocus": "Farmer value addition and rural employment" },
+  { "name": "Soweto Women Makers Cooperative", "sector": "SME", "location": "Gauteng", "supportType": "Inventory finance and digital payments", "impactFocus": "Financial inclusion and enterprise formalization" }
+]

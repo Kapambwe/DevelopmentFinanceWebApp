@@ -1,0 +1,69 @@
+{
+  "institutionType": "Venture_Capitals",
+  "institutionName": "Kukula_Capital",
+  "country": "Zambia",
+  "description": "Role-to-permission mapping for Kukula_Capital sample data.",
+  "version": "1.0.0",
+  "roles": [
+    {
+      "roleName": "Partner",
+      "permissions": [
+        "DevelopmentFinance.Access",
+        "DevelopmentFinance.Dashboard.View",
+        "DevelopmentFinance.VentureCapital.View",
+        "DevelopmentFinance.VentureCapital.ManageDeals",
+        "DevelopmentFinance.VentureCapital.ViewPortfolio",
+        "DevelopmentFinance.VentureCapital.ApproveInvestments",
+        "DevelopmentFinance.Accounting.View",
+        "DevelopmentFinance.DynamicForms.View",
+        "DevelopmentFinance.DynamicForms.Manage",
+        "DevelopmentFinance.DynamicForms.Review",
+        "DevelopmentFinance.NetworkAnalysis.View",
+        "DevelopmentFinance.DecisioningEngine.View",
+        "DevelopmentFinance.DigitalTokens.View",
+        "DevelopmentFinance.DigitalTokens.Issue",
+        "DevelopmentFinance.DigitalTokens.Manage"
+      ]
+    },
+    {
+      "roleName": "InvestmentAssociate",
+      "permissions": [
+        "DevelopmentFinance.Access",
+        "DevelopmentFinance.Dashboard.View",
+        "DevelopmentFinance.VentureCapital.View",
+        "DevelopmentFinance.VentureCapital.ManageDeals",
+        "DevelopmentFinance.VentureCapital.ViewPortfolio",
+        "DevelopmentFinance.DynamicForms.View",
+        "DevelopmentFinance.DynamicForms.Manage",
+        "DevelopmentFinance.DynamicForms.Review",
+        "DevelopmentFinance.NetworkAnalysis.View",
+        "DevelopmentFinance.DecisioningEngine.View",
+        "DevelopmentFinance.DigitalTokens.View"
+      ]
+    },
+    {
+      "roleName": "PortfolioManager",
+      "permissions": [
+        "DevelopmentFinance.Access",
+        "DevelopmentFinance.Dashboard.View",
+        "DevelopmentFinance.VentureCapital.View",
+        "DevelopmentFinance.VentureCapital.ViewPortfolio",
+        "DevelopmentFinance.VentureCapital.ApproveInvestments",
+        "DevelopmentFinance.Accounting.View",
+        "DevelopmentFinance.NetworkAnalysis.View",
+        "DevelopmentFinance.DecisioningEngine.View",
+        "DevelopmentFinance.DigitalTokens.View"
+      ]
+    },
+    {
+      "roleName": "DealAnalyst",
+      "permissions": [
+        "DevelopmentFinance.VentureCapital.View",
+        "DevelopmentFinance.DynamicForms.View",
+        "DevelopmentFinance.DynamicForms.Review",
+        "DevelopmentFinance.NetworkAnalysis.View",
+        "DevelopmentFinance.DecisioningEngine.View"
+      ]
+    }
+  ]
+}

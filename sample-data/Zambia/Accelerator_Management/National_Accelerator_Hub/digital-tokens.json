@@ -52,5 +52,32 @@
     "isTransferable": true,
     "isDivisible": true,
     "assetCategory": 11
+  },
+  {
+    "tokenId": "5b7ae3c0-7b2e-4c2f-9b7d-f0df1bcb0001",
+    "tokenSymbol": "NATIONAL_ACCELERATOR_HUB-TOK-003",
+    "tokenName": "National_Accelerator_Hub Startup Grant Token",
+    "tokenType": 12,
+    "status": 2,
+    "issuingInstitution": "National_Accelerator_Hub",
+    "issuerRole": 1,
+    "totalSupply": 150000.0,
+    "circulatingSupply": 50000.0,
+    "tokenPrice": 15.0,
+    "currency": "ZMW",
+    "issueDate": "2026-06-29T00:00:00Z",
+    "maturityDate": "2027-06-29T00:00:00Z",
+    "underlyingAsset": "Startup support pool",
+    "description": "Token tied to startup grant approvals and accelerator milestone tracking.",
+    "blockchain": "Startup grant and milestone registry",
+    "smartContractAddress": "SC-national_accelerator_hub-003",
+    "marketCap": 2250000.0,
+    "dailyVolume": 6200.0,
+    "priceChange24h": 0.08,
+    "jurisdiction": "Zambia",
+    "regulatoryFramework": "Accelerator Policy; Grant Token Rules",
+    "isTransferable": false,
+    "isDivisible": false,
+    "assetCategory": "Grant"
   }
 ]

@@ -52,5 +52,32 @@
     "isTransferable": true,
     "isDivisible": true,
     "assetCategory": 10
+  },
+  {
+    "tokenId": "9d70bf91-3f5a-4a3a-8f8e-6f10b0ca0001",
+    "tokenSymbol": "KUKULA_CAPITAL-TOK-003",
+    "tokenName": "Kukula Capital Follow-on Token",
+    "tokenType": 7,
+    "status": 2,
+    "issuingInstitution": "Kukula_Capital",
+    "issuerRole": 1,
+    "totalSupply": 100000.0,
+    "circulatingSupply": 25000.0,
+    "tokenPrice": 32.0,
+    "currency": "ZMW",
+    "issueDate": "2026-06-29T00:00:00Z",
+    "maturityDate": "2028-06-29T00:00:00Z",
+    "underlyingAsset": "Follow-on capital pool",
+    "description": "Token for follow-on investment approvals and portfolio company support.",
+    "blockchain": "VC follow-on allocation ledger",
+    "smartContractAddress": "SC-kukula_capital-003",
+    "marketCap": 3200000.0,
+    "dailyVolume": 5400.0,
+    "priceChange24h": 0.2,
+    "jurisdiction": "Zambia",
+    "regulatoryFramework": "Venture Capital Act; Follow-on Token Rules",
+    "isTransferable": false,
+    "isDivisible": true,
+    "assetCategory": "SME"
   }
 ]

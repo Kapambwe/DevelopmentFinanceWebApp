@@ -1,0 +1,44 @@
+{
+  "institutionName": "Namibia Development Finance Corporation",
+  "title": "Implementation Monitor",
+  "description": "Tracks SME growth, export readiness, and inclusive finance outcomes.",
+  "requiredFiles": [
+    "institution-info.json",
+    "permissions.json",
+    "role-permissions.json",
+    "dynamic_forms_templates.json",
+    "dynamic_forms_submissions.json",
+    "digital-tokens.json",
+    "verifiable-credentials.json",
+    "beneficiary_organizations.json"
+  ],
+  "items": [
+    {
+      "key": "sme-export",
+      "name": "SME export readiness",
+      "status": "Done",
+      "category": "Trade finance",
+      "beneficiaryOrganization": "Windhoek SME Growth Forum",
+      "evidencePath": "verifiable-credentials.json",
+      "notes": "Supports small firms accessing export markets"
+    },
+    {
+      "key": "women-enterprise",
+      "name": "Women entrepreneur finance",
+      "status": "Done",
+      "category": "Women-led finance",
+      "beneficiaryOrganization": "Women-led enterprise network",
+      "evidencePath": "beneficiary_organizations.json",
+      "notes": "Increases working capital access"
+    },
+    {
+      "key": "community-enterprise",
+      "name": "Community enterprise support",
+      "status": "Partial",
+      "category": "Community development",
+      "beneficiaryOrganization": "Kunene Community Enterprise Cooperative",
+      "evidencePath": "digital-tokens.json",
+      "notes": "Income generation in underserved regions"
+    }
+  ]
+}

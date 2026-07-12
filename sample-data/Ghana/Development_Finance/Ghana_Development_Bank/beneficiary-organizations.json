@@ -1,0 +1,5 @@
+[
+  { "name": "Northern Agro Exporters", "sector": "Agriculture", "location": "Tamale", "supportType": "Export finance and trade support", "impactFocus": "Income growth and market access" },
+  { "name": "Ashanti Cocoa Farmers Union", "sector": "Agriculture", "location": "Kumasi", "supportType": "Input finance and aggregation support", "impactFocus": "Farmer incomes and poverty reduction" },
+  { "name": "Accra Women Traders Association", "sector": "SME", "location": "Accra", "supportType": "Merchant finance and digital payments", "impactFocus": "Financial inclusion and business growth" }
+]

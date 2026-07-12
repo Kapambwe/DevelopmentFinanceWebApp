@@ -52,5 +52,32 @@
     "isTransferable": true,
     "isDivisible": true,
     "assetCategory": 10
+  },
+  {
+    "tokenId": "8d2f3f3d-1caa-4cfd-b2fd-6d58f7a60001",
+    "tokenSymbol": "GROWTH_INVESTMENT_PARTNERS-TOK-003",
+    "tokenName": "Growth Investment Partners Capital Call Token",
+    "tokenType": 7,
+    "status": 2,
+    "issuingInstitution": "Growth_Investment_Partners",
+    "issuerRole": 1,
+    "totalSupply": 90000.0,
+    "circulatingSupply": 30000.0,
+    "tokenPrice": 28.0,
+    "currency": "ZMW",
+    "issueDate": "2026-06-29T00:00:00Z",
+    "maturityDate": "2028-06-29T00:00:00Z",
+    "underlyingAsset": "Capital call pool",
+    "description": "Token used for follow-on capital calls and portfolio deployment tracking.",
+    "blockchain": "VC capital call registry",
+    "smartContractAddress": "SC-growth_investment_partners-003",
+    "marketCap": 2520000.0,
+    "dailyVolume": 5100.0,
+    "priceChange24h": 0.09,
+    "jurisdiction": "Zambia",
+    "regulatoryFramework": "Venture Capital Act; Capital Call Token Rules",
+    "isTransferable": false,
+    "isDivisible": true,
+    "assetCategory": "SME"
   }
 ]

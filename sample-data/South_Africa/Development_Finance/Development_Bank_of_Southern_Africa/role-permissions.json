@@ -1,0 +1,78 @@
+{
+  "institutionType": "Development_Finance",
+  "institutionName": "Development_Bank_of_Southern_Africa",
+  "country": "South_Africa",
+  "description": "Role-to-permission mapping for Development_Bank_of_Southern_Africa sample data.",
+  "version": "1.0.0",
+  "roles": [
+    {
+      "roleName": "FinanceManager",
+      "permissions": [
+        "DevelopmentFinance.Access",
+        "DevelopmentFinance.Dashboard.View",
+        "DevelopmentFinance.Institution.View",
+        "DevelopmentFinance.CountryDfi.View",
+        "DevelopmentFinance.CountryDfi.ManageAccounts",
+        "DevelopmentFinance.Accounting.View",
+        "DevelopmentFinance.Accounting.Manage",
+        "DevelopmentFinance.Accounting.ViewGeneralLedger",
+        "DevelopmentFinance.Accounting.ManageChartOfAccounts",
+        "DevelopmentFinance.Accounting.ViewReports",
+        "DevelopmentFinance.HumanResources.View",
+        "DevelopmentFinance.DynamicForms.View",
+        "DevelopmentFinance.DynamicForms.Manage",
+        "DevelopmentFinance.DynamicForms.Review",
+        "DevelopmentFinance.DigitalTokens.View",
+        "DevelopmentFinance.DigitalTokens.Issue",
+        "DevelopmentFinance.DigitalTokens.Manage"
+      ]
+    },
+    {
+      "roleName": "ProjectManager",
+      "permissions": [
+        "DevelopmentFinance.Access",
+        "DevelopmentFinance.Dashboard.View",
+        "DevelopmentFinance.Institution.View",
+        "DevelopmentFinance.Institution.Manage",
+        "DevelopmentFinance.CountryDfi.View",
+        "DevelopmentFinance.CountryDfi.ReviewPipeline",
+        "DevelopmentFinance.DynamicForms.View",
+        "DevelopmentFinance.DynamicForms.Manage",
+        "DevelopmentFinance.DynamicForms.Review",
+        "DevelopmentFinance.Consent.View",
+        "DevelopmentFinance.DecisioningEngine.View",
+        "DevelopmentFinance.DigitalTokens.View"
+      ]
+    },
+    {
+      "roleName": "RiskOfficer",
+      "permissions": [
+        "DevelopmentFinance.Access",
+        "DevelopmentFinance.Dashboard.View",
+        "DevelopmentFinance.CountryDfi.View",
+        "DevelopmentFinance.CountryDfi.ReviewPipeline",
+        "DevelopmentFinance.NetworkAnalysis.View",
+        "DevelopmentFinance.DecisioningEngine.View",
+        "DevelopmentFinance.DigitalTokens.View"
+      ]
+    },
+    {
+      "roleName": "Accountant",
+      "permissions": [
+        "DevelopmentFinance.Accounting.View",
+        "DevelopmentFinance.Accounting.Manage",
+        "DevelopmentFinance.Accounting.ViewGeneralLedger",
+        "DevelopmentFinance.Accounting.ViewReports"
+      ]
+    },
+    {
+      "roleName": "HROfficer",
+      "permissions": [
+        "DevelopmentFinance.HumanResources.View",
+        "DevelopmentFinance.HumanResources.ManageEmployees",
+        "DevelopmentFinance.HumanResources.ManagePositions",
+        "DevelopmentFinance.HumanResources.ViewPayroll"
+      ]
+    }
+  ]
+}

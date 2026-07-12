@@ -1,0 +1,22 @@
+[
+  {
+    "name": "International Fund for Agricultural Development",
+    "role": "Lead programme owner",
+    "focus": "Rural development and agricultural value chains"
+  },
+  {
+    "name": "Food and Agriculture Organization",
+    "role": "Technical partner",
+    "focus": "Agricultural standards, food systems, and resilience"
+  },
+  {
+    "name": "World Food Programme",
+    "role": "Implementation partner",
+    "focus": "Nutrition-linked delivery and last-mile operations"
+  },
+  {
+    "name": "African Development Bank",
+    "role": "Financing partner",
+    "focus": "Regional finance and blended capital"
+  }
+]

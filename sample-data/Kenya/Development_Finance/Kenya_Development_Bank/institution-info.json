@@ -1,8 +1,7 @@
-[
-  {
-    "name": "Kenya Development Bank",
-    "country": "Kenya",
-    "sector": "Development finance",
-    "focus": "Agribusiness and manufacturing finance"
-  }
-]
+{
+  "country": "Kenya",
+  "institutionType": "Development_Finance",
+  "institutionName": "Kenya_Development_Bank",
+  "programName": "Kenya Development Bank Partnership Programs",
+  "description": "Development finance partner supporting agribusiness, manufacturing, and inclusive credit."
+}

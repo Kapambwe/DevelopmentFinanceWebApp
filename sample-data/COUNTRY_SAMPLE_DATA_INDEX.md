@@ -34,4 +34,5 @@ Development Finance sample data follows the pattern:
 - This index reflects the service-compatible sample-data layout already used by the app.
 - Digital token bundles are now populated across the country sample-data tree.
 - Verifiable credential bundles now include both issued credentials and credentials received from other institutions.
+- Zambia development finance now includes livestock project bundles for sustainable production and climate-resilient management.
 

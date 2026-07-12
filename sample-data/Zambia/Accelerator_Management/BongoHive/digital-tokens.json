@@ -52,5 +52,32 @@
     "isTransferable": true,
     "isDivisible": true,
     "assetCategory": 11
+  },
+  {
+    "tokenId": "b3a72e12-0b6f-4f10-8c7e-8f02b0c90001",
+    "tokenSymbol": "BONGOHIVE-TOK-003",
+    "tokenName": "BongoHive Venture Pipeline Token",
+    "tokenType": 7,
+    "status": 2,
+    "issuingInstitution": "BongoHive",
+    "issuerRole": 1,
+    "totalSupply": 120000.0,
+    "circulatingSupply": 40000.0,
+    "tokenPrice": 25.0,
+    "currency": "ZMW",
+    "issueDate": "2026-06-29T00:00:00Z",
+    "maturityDate": "2027-12-31T00:00:00Z",
+    "underlyingAsset": "Startup pipeline",
+    "description": "Token used for startup screening, cohort progression, and mentor allocation.",
+    "blockchain": "Startup pipeline and cohort management",
+    "smartContractAddress": "SC-bongohive-003",
+    "marketCap": 3000000.0,
+    "dailyVolume": 8400.0,
+    "priceChange24h": 0.12,
+    "jurisdiction": "Zambia",
+    "regulatoryFramework": "Accelerator Policy; Venture Token Rules",
+    "isTransferable": false,
+    "isDivisible": true,
+    "assetCategory": "SME"
   }
 ]

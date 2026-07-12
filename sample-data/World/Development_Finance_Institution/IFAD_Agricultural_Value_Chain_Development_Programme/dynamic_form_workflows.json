@@ -1,0 +1,17 @@
+[
+  {
+    "workflow": "Beneficiary Intake",
+    "stage": "Origination",
+    "status": "Active"
+  },
+  {
+    "workflow": "Partner Due Diligence",
+    "stage": "Review",
+    "status": "Active"
+  },
+  {
+    "workflow": "Disbursement Monitoring",
+    "stage": "Monitoring",
+    "status": "Active"
+  }
+]

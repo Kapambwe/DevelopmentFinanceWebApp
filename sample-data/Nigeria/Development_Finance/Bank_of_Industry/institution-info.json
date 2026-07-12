@@ -1,8 +1,7 @@
-[
-  {
-    "name": "Bank of Industry",
-    "country": "Nigeria",
-    "sector": "Development finance",
-    "focus": "Industrial and SME finance"
-  }
-]
+{
+  "country": "Nigeria",
+  "institutionType": "Development_Finance",
+  "institutionName": "Bank_of_Industry",
+  "programName": "Bank of Industry Partnership Programs",
+  "description": "Industrial development finance partner supporting manufacturing scale-up and inclusion."
+}

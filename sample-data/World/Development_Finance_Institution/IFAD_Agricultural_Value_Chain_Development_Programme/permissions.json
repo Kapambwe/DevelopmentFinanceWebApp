@@ -1,0 +1,11 @@
+{
+  "permissions": [
+    "App.Access",
+    "ProjectPipeline.View",
+    "CoFinancing.View",
+    "DigitalTokens.View",
+    "DynamicForms.View",
+    "DynamicForms.Review",
+    "Regulatory.View"
+  ]
+}

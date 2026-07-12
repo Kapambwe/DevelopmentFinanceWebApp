@@ -1,7 +1,51 @@
 [
   {
+    "id": "ndfc-sme-001",
     "tokenType": "ProgramAccessToken",
-    "name": "Namibia SME Facility Access",
-    "status": "Active"
+    "name": "Namibia SME facility access token",
+    "tokenName": "Namibia SME facility access token",
+    "status": "Active",
+    "industry": "Development Finance",
+    "issuer": "Namibia Development Finance Corporation",
+    "issuerType": "DFI",
+    "instrument": "SME onboarding entitlement",
+    "issuedAt": "2026-06-21T09:00:00Z",
+    "route": "/digital-tokens/marketplace",
+    "useCase": "SME finance pipeline access",
+    "visibility": "Institution",
+    "investmentAudience": "SME desk and partner lenders"
+  },
+  {
+    "id": "ndfc-agri-001",
+    "tokenType": "GrantToken",
+    "name": "Agricultural inclusion grant token",
+    "tokenName": "Agricultural inclusion grant token",
+    "status": "Pending",
+    "industry": "Development Finance",
+    "issuer": "Namibia Development Finance Corporation",
+    "issuerType": "DFI",
+    "instrument": "Grant allocation",
+    "issuedAt": "2026-06-24T10:15:00Z",
+    "route": "/digital-tokens/issuance",
+    "useCase": "Farmer support and financial inclusion",
+    "visibility": "Institution",
+    "investmentAudience": "Agriculture and inclusion programme teams"
+  },
+  {
+    "id": "ndfc-tx-001",
+    "tokenType": "ImpactToken",
+    "name": "Green jobs impact token",
+    "tokenName": "Green jobs impact token",
+    "status": "Issued",
+    "industry": "Development Finance",
+    "issuer": "Namibia Development Finance Corporation",
+    "issuerType": "DFI",
+    "instrument": "Impact reporting",
+    "issuedAt": "2026-06-19T15:20:00Z",
+    "route": "/digital-tokens/transactions",
+    "useCase": "Track green employment outcomes",
+    "visibility": "Financial Sector",
+    "isFinancialSectorInvestable": true,
+    "investmentAudience": "Climate finance partners and reporting teams"
   }
 ]

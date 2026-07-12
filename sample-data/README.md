@@ -15,6 +15,8 @@ Current example files:
 - `wwwroot/sample-data/Zambia/Accelerator_Management/BongoHive/accelerator_programs.json`
 - `wwwroot/sample-data/South_Africa/Development_Finance/Development_Bank_of_Southern_Africa/country_dfi_institutions.json`
 - `wwwroot/sample-data/Zambia/Development_Finance/IFAD_Agricultural_Value_Chain_Development_Programme/stakeholders.json`
+- `wwwroot/sample-data/Zambia/Development_Finance/Sustainable_Livestock_Infrastructure_Management_Project/institution-info.json`
+- `wwwroot/sample-data/Zambia/Development_Finance/Climate_Resilient_Livestock_Management_Project/institution-info.json`
 
 See also: [COUNTRY_SAMPLE_DATA_INDEX.md](COUNTRY_SAMPLE_DATA_INDEX.md)
 
