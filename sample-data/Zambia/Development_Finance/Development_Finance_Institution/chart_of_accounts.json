@@ -1,23 +1,14 @@
 [
   {
+    "organizationName": "Development Finance Institution Beneficiaries",
+    "description": "Development Finance Institution beneficiaries and partners",
     "country": "Zambia",
-    "accountNo": "1000",
-    "accountName": "Cash and Cash Equivalents",
-    "accountCategory": "Assets",
-    "status": "Active"
+    "category": "Development finance"
   },
   {
+    "organizationName": "Local SME Association",
+    "description": "Small business and livelihood support",
     "country": "Zambia",
-    "accountNo": "2000",
-    "accountName": "Grant Obligations",
-    "accountCategory": "Liabilities",
-    "status": "Active"
-  },
-  {
-    "country": "Zambia",
-    "accountNo": "3000",
-    "accountName": "Development Fund Reserve",
-    "accountCategory": "Equity",
-    "status": "Active"
+    "category": "Beneficiary"
   }
 ]

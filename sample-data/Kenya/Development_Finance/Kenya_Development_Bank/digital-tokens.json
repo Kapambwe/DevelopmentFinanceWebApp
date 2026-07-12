@@ -1,7 +1,16 @@
-[
-  {
-    "tokenType": "ProgramAccessToken",
-    "name": "Kenya Export Finance Access",
-    "status": "Active"
-  }
-]
+{
+  "tokenName": "Kenya agriculture inclusion token",
+  "visibility": "Institution",
+  "useCase": "Track agribusiness and inclusion impact",
+  "issuer": "Kenya Development Bank",
+  "issuedAt": "2026-06-20T10:00:00Z",
+  "investmentAudience": "Development partners and investors",
+  "instrument": "Impact reporting",
+  "tokenType": "ImpactToken",
+  "industry": "Development Finance",
+  "id": "kdb-token-001",
+  "status": "Active",
+  "route": "/digital-tokens/marketplace",
+  "name": "Kenya agriculture inclusion token",
+  "issuerType": "DFI"
+}

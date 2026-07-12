@@ -1,0 +1,26 @@
+[
+  {
+    "debit": "KES 0.0B",
+    "postingDate": "2026-06-02",
+    "balance": "KES 9.8B",
+    "country": "Kenya",
+    "description": "Opening balance carry forward",
+    "credit": "KES 0.0B"
+  },
+  {
+    "debit": "KES 420.0M",
+    "postingDate": "2026-06-12",
+    "balance": "KES 9.38B",
+    "country": "Kenya",
+    "description": "Agribusiness disbursement",
+    "credit": "KES 0.0M"
+  },
+  {
+    "debit": "KES 0.0M",
+    "postingDate": "2026-06-20",
+    "balance": "KES 9.438B",
+    "country": "Kenya",
+    "description": "Portfolio recovery receipt",
+    "credit": "KES 58.0M"
+  }
+]

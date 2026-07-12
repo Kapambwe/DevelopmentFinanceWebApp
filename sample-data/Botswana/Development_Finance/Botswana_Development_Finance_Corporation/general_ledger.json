@@ -1,0 +1,26 @@
+[
+  {
+    "debit": "BWP 0.0M",
+    "postingDate": "2026-06-06",
+    "balance": "BWP 74.0M",
+    "country": "Botswana",
+    "description": "Opening balance carry forward",
+    "credit": "BWP 0.0M"
+  },
+  {
+    "debit": "BWP 8.8M",
+    "postingDate": "2026-06-16",
+    "balance": "BWP 65.2M",
+    "country": "Botswana",
+    "description": "SME disbursement",
+    "credit": "BWP 0.0M"
+  },
+  {
+    "debit": "BWP 0.0M",
+    "postingDate": "2026-06-23",
+    "balance": "BWP 66.1M",
+    "country": "Botswana",
+    "description": "Repayment receipt",
+    "credit": "BWP 0.9M"
+  }
+]

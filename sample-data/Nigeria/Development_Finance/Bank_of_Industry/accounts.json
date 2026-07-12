@@ -1,0 +1,26 @@
+[
+  {
+    "balance": "NGN 148.2B",
+    "status": "Active",
+    "accountName": "Cash and Cash Equivalents",
+    "country": "Nigeria",
+    "accountNo": "1000",
+    "accountType": "Asset"
+  },
+  {
+    "balance": "NGN 620.5B",
+    "status": "Active",
+    "accountName": "Industrial Loan Book",
+    "country": "Nigeria",
+    "accountNo": "2000",
+    "accountType": "Asset"
+  },
+  {
+    "balance": "NGN 91.8B",
+    "status": "Active",
+    "accountName": "SME Reserve",
+    "country": "Nigeria",
+    "accountNo": "3000",
+    "accountType": "Equity"
+  }
+]

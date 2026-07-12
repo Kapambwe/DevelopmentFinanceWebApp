@@ -1,0 +1,26 @@
+[
+  {
+    "balance": "NAD 218.0M",
+    "status": "Active",
+    "accountName": "Cash and Cash Equivalents",
+    "country": "Namibia",
+    "accountNo": "1000",
+    "accountType": "Asset"
+  },
+  {
+    "balance": "NAD 1.1B",
+    "status": "Active",
+    "accountName": "Industrial Finance Portfolio",
+    "country": "Namibia",
+    "accountNo": "2000",
+    "accountType": "Asset"
+  },
+  {
+    "balance": "NAD 144.0M",
+    "status": "Active",
+    "accountName": "Strategic Reserve",
+    "country": "Namibia",
+    "accountNo": "3000",
+    "accountType": "Equity"
+  }
+]

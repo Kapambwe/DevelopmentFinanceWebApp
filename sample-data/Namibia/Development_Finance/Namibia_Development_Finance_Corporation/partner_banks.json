@@ -1,0 +1,14 @@
+[
+  {
+    "bankName": "Bank Windhoek",
+    "status": "Active",
+    "country": "Namibia",
+    "program": "SME financing"
+  },
+  {
+    "bankName": "FNB Namibia",
+    "status": "Active",
+    "country": "Namibia",
+    "program": "Enterprise onboarding"
+  }
+]

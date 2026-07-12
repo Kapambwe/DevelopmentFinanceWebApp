@@ -1,0 +1,14 @@
+[
+  {
+    "bankName": "Standard Bank South Africa",
+    "status": "Active",
+    "country": "South_Africa",
+    "program": "Climate-smart agriculture finance"
+  },
+  {
+    "bankName": "Absa South Africa",
+    "status": "Active",
+    "country": "South_Africa",
+    "program": "Women-led enterprise lending"
+  }
+]

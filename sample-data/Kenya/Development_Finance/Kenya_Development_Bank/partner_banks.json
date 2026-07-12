@@ -1,0 +1,14 @@
+[
+  {
+    "bankName": "KCB Bank Kenya",
+    "status": "Active",
+    "country": "Kenya",
+    "program": "Value-chain lending"
+  },
+  {
+    "bankName": "Equity Bank Kenya",
+    "status": "Active",
+    "country": "Kenya",
+    "program": "Digital inclusion finance"
+  }
+]

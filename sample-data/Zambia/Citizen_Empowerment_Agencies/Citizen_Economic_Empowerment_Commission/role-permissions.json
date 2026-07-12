@@ -1,61 +1,8 @@
 {
-  "institutionType": "Citizen_Empowerment_Agencies",
-  "institutionName": "Citizen_Economic_Empowerment_Commission",
   "country": "Zambia",
-  "description": "Role-to-permission mapping for Citizen_Economic_Empowerment_Commission sample data.",
-  "version": "1.0.0",
-  "roles": [
-    {
-      "roleName": "ProgrammeManager",
-      "permissions": [
-        "DevelopmentFinance.Access",
-        "DevelopmentFinance.Dashboard.View",
-        "DevelopmentFinance.Empowerment.View",
-        "DevelopmentFinance.Empowerment.ManageFunds",
-        "DevelopmentFinance.Empowerment.ReviewApplications",
-        "DevelopmentFinance.Empowerment.ApproveFunds",
-        "DevelopmentFinance.DynamicForms.View",
-        "DevelopmentFinance.DynamicForms.Manage",
-        "DevelopmentFinance.DynamicForms.Review",
-        "DevelopmentFinance.DynamicForms.Approve",
-        "DevelopmentFinance.DigitalTokens.View",
-        "DevelopmentFinance.DigitalTokens.Issue",
-        "DevelopmentFinance.DigitalTokens.Manage"
-      ]
-    },
-    {
-      "roleName": "ComplianceOfficer",
-      "permissions": [
-        "DevelopmentFinance.Access",
-        "DevelopmentFinance.Dashboard.View",
-        "DevelopmentFinance.Empowerment.View",
-        "DevelopmentFinance.Empowerment.ReviewApplications",
-        "DevelopmentFinance.Empowerment.ApproveFunds",
-        "DevelopmentFinance.Consent.View",
-        "DevelopmentFinance.DecisioningEngine.View",
-        "DevelopmentFinance.DigitalTokens.View"
-      ]
-    },
-    {
-      "roleName": "FinanceManager",
-      "permissions": [
-        "DevelopmentFinance.Access",
-        "DevelopmentFinance.Dashboard.View",
-        "DevelopmentFinance.Empowerment.View",
-        "DevelopmentFinance.Empowerment.ManageFunds",
-        "DevelopmentFinance.Accounting.View",
-        "DevelopmentFinance.Accounting.Manage",
-        "DevelopmentFinance.DigitalTokens.View"
-      ]
-    },
-    {
-      "roleName": "Citizen",
-      "permissions": [
-        "DevelopmentFinance.Empowerment.View",
-        "DevelopmentFinance.DynamicForms.View",
-        "DevelopmentFinance.DynamicForms.Review",
-        "DevelopmentFinance.DigitalTokens.View"
-      ]
-    }
-  ]
+  "dealName": "Citizen Economic Empowerment Commission growth capital pipeline",
+  "stage": "Seed",
+  "investor": "Impact Seed Fund",
+  "status": "Pipeline",
+  "ticketSize": "ZMW 1.0M"
 }

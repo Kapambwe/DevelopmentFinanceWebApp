@@ -1,0 +1,16 @@
+{
+  "tokenName": "Southern Africa inclusion impact token",
+  "visibility": "Institution",
+  "useCase": "Track smallholder inclusion outcomes",
+  "issuer": "Self Help Africa",
+  "issuedAt": "2026-06-18T08:00:00Z",
+  "investmentAudience": "Programme managers and development partners",
+  "instrument": "Impact reporting",
+  "tokenType": "ImpactToken",
+  "industry": "Development Finance",
+  "id": "sha-token-001",
+  "status": "Issued",
+  "route": "/digital-tokens/transactions",
+  "name": "Southern Africa inclusion impact token",
+  "issuerType": "DFI"
+}

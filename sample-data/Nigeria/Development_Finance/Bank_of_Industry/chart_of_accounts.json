@@ -1,0 +1,23 @@
+[
+  {
+    "code": "1000",
+    "country": "Nigeria",
+    "description": "Liquid funds available for disbursement.",
+    "category": "Assets",
+    "name": "Cash and Cash Equivalents"
+  },
+  {
+    "code": "2000",
+    "country": "Nigeria",
+    "description": "Industrial lending and MSME support portfolio.",
+    "category": "Assets",
+    "name": "Industrial Loan Book"
+  },
+  {
+    "code": "3000",
+    "country": "Nigeria",
+    "description": "Reserve supporting strategic industrial interventions.",
+    "category": "Equity",
+    "name": "SME Reserve"
+  }
+]

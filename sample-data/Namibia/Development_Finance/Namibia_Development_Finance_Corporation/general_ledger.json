@@ -1,0 +1,26 @@
+[
+  {
+    "debit": "NAD 0.0M",
+    "postingDate": "2026-06-04",
+    "balance": "NAD 218.0M",
+    "country": "Namibia",
+    "description": "Opening balance carry forward",
+    "credit": "NAD 0.0M"
+  },
+  {
+    "debit": "NAD 12.0M",
+    "postingDate": "2026-06-14",
+    "balance": "NAD 206.0M",
+    "country": "Namibia",
+    "description": "SME finance drawdown",
+    "credit": "NAD 0.0M"
+  },
+  {
+    "debit": "NAD 0.0M",
+    "postingDate": "2026-06-21",
+    "balance": "NAD 206.6M",
+    "country": "Namibia",
+    "description": "Fee income recorded",
+    "credit": "NAD 0.6M"
+  }
+]

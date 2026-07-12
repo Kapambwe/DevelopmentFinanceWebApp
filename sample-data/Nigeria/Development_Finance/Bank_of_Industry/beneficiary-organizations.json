@@ -1,5 +1,14 @@
 [
-  { "name": "Lagos Manufacturing Cluster", "sector": "Manufacturing", "location": "Lagos", "supportType": "Equipment finance and working capital", "impactFocus": "Employment and poverty reduction" },
-  { "name": "Kano Rice Farmers Alliance", "sector": "Agriculture", "location": "Kano", "supportType": "Harvest finance and warehouse support", "impactFocus": "Farmer incomes and food security" },
-  { "name": "Abuja Youth Enterprise Collective", "sector": "SME", "location": "Abuja", "supportType": "Startup funding and market linkage", "impactFocus": "Youth employment and formal financial access" }
+  {
+    "category": "Primary Beneficiary",
+    "description": "Manufacturing businesses receiving industrial growth finance.",
+    "country": "Nigeria",
+    "organizationName": "Manufacturing SMEs"
+  },
+  {
+    "category": "Inclusion Partner",
+    "description": "Women-led industrial enterprises supported through development finance.",
+    "country": "Nigeria",
+    "organizationName": "Women Industrial Entrepreneurs"
+  }
 ]

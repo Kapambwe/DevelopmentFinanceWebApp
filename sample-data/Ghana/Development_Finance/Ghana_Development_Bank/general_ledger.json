@@ -1,0 +1,26 @@
+[
+  {
+    "debit": "GHS 0.0M",
+    "postingDate": "2026-06-03",
+    "balance": "GHS 108.4M",
+    "country": "Ghana",
+    "description": "Opening balance carry forward",
+    "credit": "GHS 0.0M"
+  },
+  {
+    "debit": "GHS 14.2M",
+    "postingDate": "2026-06-11",
+    "balance": "GHS 94.2M",
+    "country": "Ghana",
+    "description": "SME loan disbursement",
+    "credit": "GHS 0.0M"
+  },
+  {
+    "debit": "GHS 0.0M",
+    "postingDate": "2026-06-19",
+    "balance": "GHS 95.1M",
+    "country": "Ghana",
+    "description": "Interest income recognized",
+    "credit": "GHS 0.9M"
+  }
+]

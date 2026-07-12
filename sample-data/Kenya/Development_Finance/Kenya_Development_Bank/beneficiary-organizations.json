@@ -1,5 +1,14 @@
 [
-  { "name": "Lake Region Agri Cooperative", "sector": "Agriculture", "location": "Kisumu", "supportType": "Seasonal finance and market access", "impactFocus": "Poverty reduction and financial inclusion" },
-  { "name": "Rift Valley Smallholder Growers", "sector": "Agriculture", "location": "Nakuru", "supportType": "Input finance and aggregation support", "impactFocus": "Farmer incomes and food security" },
-  { "name": "Nairobi Women SMEs Network", "sector": "SME", "location": "Nairobi", "supportType": "Working capital and business banking", "impactFocus": "Financial inclusion for women-led businesses" }
+  {
+    "category": "Primary Beneficiary",
+    "description": "Farmer organizations benefiting from agribusiness finance and extension support.",
+    "country": "Kenya",
+    "organizationName": "Tea Farmer Cooperatives"
+  },
+  {
+    "category": "Inclusion Partner",
+    "description": "Women-led enterprises receiving growth finance and digital onboarding.",
+    "country": "Kenya",
+    "organizationName": "Women Enterprise Associations"
+  }
 ]

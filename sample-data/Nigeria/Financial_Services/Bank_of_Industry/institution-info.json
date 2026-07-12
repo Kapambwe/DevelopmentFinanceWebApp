@@ -1,7 +1,7 @@
 {
-  "country": "Nigeria",
-  "institutionType": "Financial Services",
-  "institutionName": "Bank_of_Industry",
   "programName": "Bank of Industry Partnership Programs",
-  "description": "Industrial development finance partner supporting manufacturing scale-up and inclusion."
+  "country": "Nigeria",
+  "institutionName": "Bank_of_Industry",
+  "description": "Commercial partnership bundle for enterprise development and financing.",
+  "institutionType": "Financial_Services"
 }

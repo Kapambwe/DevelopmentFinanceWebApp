@@ -1,26 +1,14 @@
 [
   {
+    "organizationName": "Development Finance Institution Beneficiaries",
+    "description": "Development Finance Institution beneficiaries and partners",
     "country": "Zambia",
-    "postingDate": "2026-06-01",
-    "description": "Opening balance carry forward",
-    "debit": "ZMW 0.0M",
-    "credit": "ZMW 0.0M",
-    "balance": "ZMW 24.2M"
+    "category": "Development finance"
   },
   {
+    "organizationName": "Local SME Association",
+    "description": "Small business and livelihood support",
     "country": "Zambia",
-    "postingDate": "2026-06-10",
-    "description": "Grant disbursement",
-    "debit": "ZMW 2.8M",
-    "credit": "ZMW 0.0M",
-    "balance": "ZMW 21.4M"
-  },
-  {
-    "country": "Zambia",
-    "postingDate": "2026-06-18",
-    "description": "Recovery from beneficiary",
-    "debit": "ZMW 0.0M",
-    "credit": "ZMW 0.4M",
-    "balance": "ZMW 21.8M"
+    "category": "Beneficiary"
   }
 ]

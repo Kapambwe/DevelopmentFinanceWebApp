@@ -1,7 +1,10 @@
 {
   "country": "Zambia",
-  "institutionType": "Financial Services",
-  "institutionName": "Absa Bank Zambia",
-  "programName": "Absa Development Partnership Programs",
-  "description": "Commercial banking partner supporting guarantees, SME credit, and inclusion-focused finance."
+  "status": "Active",
+  "focus": "Women-led enterprise finance and transaction banking",
+  "currency": "ZMW",
+  "website": "https://www.absabank.co.zm/",
+  "institutionType": "Financial_Services",
+  "sector": "Commercial banking",
+  "institutionName": "ABSA Bank Zambia"
 }

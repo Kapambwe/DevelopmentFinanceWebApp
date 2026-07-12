@@ -1,13 +1,16 @@
 [
   {
-    "programName": "Community Savings Access Program",
-    "partnerInstitution": "Zambia Value Chain Facility",
-    "partnershipType": "Savings and microfinance support",
-    "status": "Signed",
-    "startDate": "2026-05-01",
-    "endDate": "2028-04-30",
-    "renewalPolicy": "Renew based on outreach and repayment performance",
-    "impactAreas": ["Poverty reduction", "Financial inclusion", "Household resilience", "Women’s economic empowerment"],
-    "beneficiaryGroups": ["Low-income households", "Village savings groups", "Women entrepreneurs", "Micro retail traders"]
+    "programName": "Joint finance delivery",
+    "partnerName": "ZANACO",
+    "benefit": "Access to finance for entrepreneurs",
+    "country": "Zambia",
+    "status": "Active"
+  },
+  {
+    "programName": "Enterprise support",
+    "partnerName": "ABSA Bank Zambia",
+    "benefit": "Women and youth inclusion",
+    "country": "Zambia",
+    "status": "Active"
   }
 ]

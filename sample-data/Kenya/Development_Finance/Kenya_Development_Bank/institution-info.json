@@ -1,7 +1,7 @@
 {
+  "programName": "Kenya Development Bank",
   "country": "Kenya",
-  "institutionType": "Development_Finance",
   "institutionName": "Kenya_Development_Bank",
-  "programName": "Kenya Development Bank Partnership Programs",
-  "description": "Development finance partner supporting agribusiness, manufacturing, and inclusive credit."
+  "description": "Kenyan development finance institution supporting agribusiness, manufacturing, and inclusive credit.",
+  "institutionType": "Development_Finance"
 }

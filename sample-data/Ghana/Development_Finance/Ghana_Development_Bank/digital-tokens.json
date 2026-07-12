@@ -1,51 +1,17 @@
-[
-  {
-    "id": "gdb-access-001",
-    "tokenType": "ProgramAccessToken",
-    "name": "Ghana Development Finance access token",
-    "tokenName": "Ghana Development Finance access token",
-    "status": "Active",
-    "industry": "Development Finance",
-    "issuer": "Ghana Development Bank",
-    "issuerType": "DFI",
-    "instrument": "Program access entitlement",
-    "issuedAt": "2026-06-21T07:30:00Z",
-    "route": "/digital-tokens/marketplace",
-    "useCase": "Institutional program access",
-    "visibility": "Institution",
-    "investmentAudience": "Program managers and partner institutions"
-  },
-  {
-    "id": "gdb-cred-001",
-    "tokenType": "ImpactToken",
-    "name": "Financial inclusion impact token",
-    "tokenName": "Financial inclusion impact token",
-    "status": "Issued",
-    "industry": "Development Finance",
-    "issuer": "Ghana Development Bank",
-    "issuerType": "DFI",
-    "instrument": "Impact reporting",
-    "issuedAt": "2026-06-19T12:00:00Z",
-    "route": "/digital-tokens/transactions",
-    "useCase": "Track lending to women-owned MSMEs",
-    "visibility": "Financial Sector",
-    "isFinancialSectorInvestable": true,
-    "investmentAudience": "Impact funds and development partners"
-  },
-  {
-    "id": "gdb-iss-001",
-    "tokenType": "GrantToken",
-    "name": "Women enterprise grant token",
-    "tokenName": "Women enterprise grant token",
-    "status": "Pending",
-    "industry": "Development Finance",
-    "issuer": "Ghana Development Bank",
-    "issuerType": "DFI",
-    "instrument": "Grant allocation",
-    "issuedAt": "2026-06-24T09:30:00Z",
-    "route": "/digital-tokens/issuance",
-    "useCase": "Women-led enterprise finance",
-    "visibility": "Institution",
-    "investmentAudience": "Programme administrators and credit teams"
-  }
-]
+{
+  "tokenName": "Ghana SME finance impact token",
+  "visibility": "Financial Sector",
+  "useCase": "Track lending to SMEs and women-owned businesses",
+  "issuer": "Ghana Development Bank",
+  "issuedAt": "2026-06-19T12:00:00Z",
+  "isFinancialSectorInvestable": true,
+  "investmentAudience": "Impact funds and development partners",
+  "instrument": "Impact reporting",
+  "tokenType": "ImpactToken",
+  "industry": "Development Finance",
+  "id": "gdb-token-002",
+  "status": "Issued",
+  "route": "/digital-tokens/transactions",
+  "name": "Ghana SME finance impact token",
+  "issuerType": "DFI"
+}

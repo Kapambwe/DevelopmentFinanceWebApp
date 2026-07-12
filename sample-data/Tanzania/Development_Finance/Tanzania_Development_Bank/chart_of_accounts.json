@@ -1,0 +1,23 @@
+[
+  {
+    "code": "1000",
+    "country": "Tanzania",
+    "description": "Cash balances for lending and programme support.",
+    "category": "Assets",
+    "name": "Cash and Cash Equivalents"
+  },
+  {
+    "code": "2000",
+    "country": "Tanzania",
+    "description": "Portfolio supporting agriculture and value chains.",
+    "category": "Assets",
+    "name": "Agribusiness Finance Portfolio"
+  },
+  {
+    "code": "3000",
+    "country": "Tanzania",
+    "description": "Reserve for concessional and catalytic investments.",
+    "category": "Equity",
+    "name": "Catalytic Reserve"
+  }
+]

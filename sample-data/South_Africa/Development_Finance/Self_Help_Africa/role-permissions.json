@@ -1,0 +1,44 @@
+{
+  "institutionType": "Development_Finance",
+  "institutionName": "Self_Help_Africa",
+  "country": "South_Africa",
+  "description": "Role-to-permission mapping for Self Help Africa sample data.",
+  "version": "1.0.0",
+  "roles": [
+    {
+      "roleName": "FinanceManager",
+      "permissions": [
+        "DevelopmentFinance.Access",
+        "DevelopmentFinance.Dashboard.View",
+        "DevelopmentFinance.Institution.View",
+        "DevelopmentFinance.CountryDfi.View",
+        "DevelopmentFinance.DynamicForms.View",
+        "DevelopmentFinance.DigitalTokens.View",
+        "DevelopmentFinance.DigitalTokens.Issue"
+      ]
+    },
+    {
+      "roleName": "ProgrammeManager",
+      "permissions": [
+        "DevelopmentFinance.Access",
+        "DevelopmentFinance.Dashboard.View",
+        "DevelopmentFinance.Institution.View",
+        "DevelopmentFinance.DynamicForms.View",
+        "DevelopmentFinance.DynamicForms.Manage",
+        "DevelopmentFinance.CountryDfi.ReviewPipeline",
+        "DevelopmentFinance.NetworkAnalysis.View"
+      ]
+    },
+    {
+      "roleName": "RiskOfficer",
+      "permissions": [
+        "DevelopmentFinance.Access",
+        "DevelopmentFinance.Dashboard.View",
+        "DevelopmentFinance.CountryDfi.View",
+        "DevelopmentFinance.CountryDfi.ReviewPipeline",
+        "DevelopmentFinance.NetworkAnalysis.View",
+        "DevelopmentFinance.DigitalTokens.View"
+      ]
+    }
+  ]
+}

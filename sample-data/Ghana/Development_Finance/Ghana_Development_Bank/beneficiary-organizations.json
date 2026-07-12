@@ -1,5 +1,20 @@
 [
-  { "name": "Northern Agro Exporters", "sector": "Agriculture", "location": "Tamale", "supportType": "Export finance and trade support", "impactFocus": "Income growth and market access" },
-  { "name": "Ashanti Cocoa Farmers Union", "sector": "Agriculture", "location": "Kumasi", "supportType": "Input finance and aggregation support", "impactFocus": "Farmer incomes and poverty reduction" },
-  { "name": "Accra Women Traders Association", "sector": "SME", "location": "Accra", "supportType": "Merchant finance and digital payments", "impactFocus": "Financial inclusion and business growth" }
+  {
+    "category": "Primary Beneficiary",
+    "description": "Producer groups benefiting from agribusiness finance and market linkage.",
+    "country": "Ghana",
+    "organizationName": "Cocoa Farmer Cooperatives"
+  },
+  {
+    "category": "Inclusion Partner",
+    "description": "Women-led businesses supported through working capital and advisory services.",
+    "country": "Ghana",
+    "organizationName": "Women-Owned MSMEs"
+  },
+  {
+    "category": "Employment Partner",
+    "description": "Youth enterprises receiving coaching, finance readiness, and market access.",
+    "country": "Ghana",
+    "organizationName": "Youth Enterprise Centres"
+  }
 ]

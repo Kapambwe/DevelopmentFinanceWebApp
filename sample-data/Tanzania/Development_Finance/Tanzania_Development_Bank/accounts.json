@@ -1,0 +1,26 @@
+[
+  {
+    "balance": "TZS 31.6B",
+    "status": "Active",
+    "accountName": "Cash and Cash Equivalents",
+    "country": "Tanzania",
+    "accountNo": "1000",
+    "accountType": "Asset"
+  },
+  {
+    "balance": "TZS 118.4B",
+    "status": "Active",
+    "accountName": "Agribusiness Finance Portfolio",
+    "country": "Tanzania",
+    "accountNo": "2000",
+    "accountType": "Asset"
+  },
+  {
+    "balance": "TZS 12.5B",
+    "status": "Active",
+    "accountName": "Catalytic Reserve",
+    "country": "Tanzania",
+    "accountNo": "3000",
+    "accountType": "Equity"
+  }
+]

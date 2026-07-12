@@ -1,12 +1,10 @@
 {
   "country": "Zambia",
-  "institutionType": "Development Finance",
-  "institutionName": "Zambia Value Chain Facility",
-  "programName": "Zambia Value Chain Facility",
-  "description": "A modular value-chain financing facility for agriculture, agribusiness, aquaculture, textiles, furniture, footwear, and other productive sectors. The facility includes risk-sharing support for large-scale agribusiness expansion, local currency lending, and commercial bank collaboration.",
-  "partners": [
-    "Implementation Partners",
-    "Partner Banks",
-    "Development Finance Institutions"
-  ]
+  "status": "Active",
+  "focus": "Value chain finance, partnerships, and market linkage",
+  "currency": "ZMW",
+  "website": "https://valuechain.example.zm/",
+  "institutionType": "Development_Finance",
+  "sector": "Development finance",
+  "institutionName": "Zambia Value Chain Facility"
 }

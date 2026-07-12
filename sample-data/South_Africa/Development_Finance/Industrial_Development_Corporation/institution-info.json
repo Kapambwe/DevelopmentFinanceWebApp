@@ -1,7 +1,7 @@
 {
+  "programName": "Industrial Development Corporation",
   "country": "South_Africa",
-  "institutionType": "Development_Finance",
   "institutionName": "Industrial_Development_Corporation",
-  "programName": "IDC Partnership Programs",
-  "description": "Industrial finance partner supporting manufacturing, enterprise expansion, and employment creation."
+  "description": "Industrial development finance partner focused on manufacturing, SME growth, and strategic investment.",
+  "institutionType": "Development_Finance"
 }

@@ -1,0 +1,26 @@
+[
+  {
+    "balance": "ZAR 412.0M",
+    "status": "Active",
+    "accountName": "Cash and Cash Equivalents",
+    "country": "South_Africa",
+    "accountNo": "1000",
+    "accountType": "Asset"
+  },
+  {
+    "balance": "ZAR 1.9B",
+    "status": "Active",
+    "accountName": "Rural Finance Portfolio",
+    "country": "South_Africa",
+    "accountNo": "2000",
+    "accountType": "Asset"
+  },
+  {
+    "balance": "ZAR 88.5M",
+    "status": "Active",
+    "accountName": "Programme Reserve",
+    "country": "South_Africa",
+    "accountNo": "3000",
+    "accountType": "Equity"
+  }
+]

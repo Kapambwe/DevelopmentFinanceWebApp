@@ -1,0 +1,23 @@
+[
+  {
+    "code": "1000",
+    "country": "Namibia",
+    "description": "Operating liquidity for the institution.",
+    "category": "Assets",
+    "name": "Cash and Cash Equivalents"
+  },
+  {
+    "code": "2000",
+    "country": "Namibia",
+    "description": "Industrial and SME financing portfolio.",
+    "category": "Assets",
+    "name": "Industrial Finance Portfolio"
+  },
+  {
+    "code": "3000",
+    "country": "Namibia",
+    "description": "Reserve for programme continuity and expansion.",
+    "category": "Equity",
+    "name": "Strategic Reserve"
+  }
+]

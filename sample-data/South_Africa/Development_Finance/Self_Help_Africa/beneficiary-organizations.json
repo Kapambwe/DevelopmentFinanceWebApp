@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Primary Beneficiary",
+    "description": "Farmers participating in climate-smart agricultural finance and livelihood support.",
+    "country": "South_Africa",
+    "organizationName": "Smallholder Farmer Cooperatives"
+  },
+  {
+    "category": "Inclusion Partner",
+    "description": "Women-led producer groups receiving training, inputs, and market access support.",
+    "country": "South_Africa",
+    "organizationName": "Women in Agriculture Networks"
+  },
+  {
+    "category": "Employment Partner",
+    "description": "Youth-led enterprises supported through value-chain finance and mentoring.",
+    "country": "South_Africa",
+    "organizationName": "Youth Agripreneur Hubs"
+  },
+  {
+    "category": "Implementation Partner",
+    "description": "Local service centres coordinating delivery, field support, and reporting.",
+    "country": "South_Africa",
+    "organizationName": "Rural Livelihood Support Centres"
+  }
+]

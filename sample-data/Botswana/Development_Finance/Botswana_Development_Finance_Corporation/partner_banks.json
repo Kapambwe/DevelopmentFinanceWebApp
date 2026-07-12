@@ -1,0 +1,14 @@
+[
+  {
+    "bankName": "First National Bank Botswana",
+    "status": "Active",
+    "country": "Botswana",
+    "program": "SME financing"
+  },
+  {
+    "bankName": "Absa Bank Botswana",
+    "status": "Active",
+    "country": "Botswana",
+    "program": "Business growth finance"
+  }
+]

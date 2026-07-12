@@ -1,0 +1,26 @@
+[
+  {
+    "balance": "KES 9.8B",
+    "status": "Active",
+    "accountName": "Cash and Cash Equivalents",
+    "country": "Kenya",
+    "accountNo": "1000",
+    "accountType": "Asset"
+  },
+  {
+    "balance": "KES 24.6B",
+    "status": "Active",
+    "accountName": "Agriculture Portfolio",
+    "country": "Kenya",
+    "accountNo": "2000",
+    "accountType": "Asset"
+  },
+  {
+    "balance": "KES 3.4B",
+    "status": "Active",
+    "accountName": "Development Reserve",
+    "country": "Kenya",
+    "accountNo": "3000",
+    "accountType": "Equity"
+  }
+]

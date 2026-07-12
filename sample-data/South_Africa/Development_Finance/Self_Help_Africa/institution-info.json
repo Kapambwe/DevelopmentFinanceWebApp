@@ -1,0 +1,18 @@
+{
+  "institutionId": "sha-0001",
+  "employees": 84,
+  "institutionType": "Development_Finance",
+  "headquarters": "Johannesburg",
+  "branches": 6,
+  "institutionName": "Self Help Africa",
+  "description": "A development finance partner supporting smallholder agriculture, climate resilience, and inclusive rural livelihoods across Southern Africa.",
+  "established": 1992,
+  "currency": "ZAR",
+  "contactEmail": "info@selfhelpafrica.org.za",
+  "registrationNumber": "REG-SHA-001",
+  "createdAt": "1992-01-01T00:00:00Z",
+  "website": "https://www.selfhelpafrica.org/",
+  "country": "South_Africa",
+  "contactPhone": "+27110001001",
+  "status": "Active"
+}

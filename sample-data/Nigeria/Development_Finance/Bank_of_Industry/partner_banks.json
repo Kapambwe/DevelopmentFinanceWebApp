@@ -1,0 +1,14 @@
+[
+  {
+    "bankName": "Access Bank Nigeria",
+    "status": "Active",
+    "country": "Nigeria",
+    "program": "Industrial SME lending"
+  },
+  {
+    "bankName": "First Bank of Nigeria",
+    "status": "Active",
+    "country": "Nigeria",
+    "program": "Manufacturing finance"
+  }
+]

@@ -1,7 +1,14 @@
-{
-  "country": "Zambia",
-  "name": "National DFI",
-  "portfolio": "ZMW 1.8B",
-  "capitalAdequacy": "18.2%",
-  "governance": "Strong"
-}
+[
+  {
+    "organizationName": "Development Finance Institution Beneficiaries",
+    "description": "Development Finance Institution beneficiaries and partners",
+    "country": "Zambia",
+    "category": "Development finance"
+  },
+  {
+    "organizationName": "Local SME Association",
+    "description": "Small business and livelihood support",
+    "country": "Zambia",
+    "category": "Beneficiary"
+  }
+]

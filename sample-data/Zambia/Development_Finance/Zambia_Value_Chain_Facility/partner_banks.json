@@ -1,12 +1,14 @@
 [
   {
-    "name": "Zanaco",
-    "role": "Partner bank",
-    "focus": "SME finance"
+    "status": "Active",
+    "program": "SME finance",
+    "country": "Zambia",
+    "bankName": "ZANACO"
   },
   {
-    "name": "Stanbic Bank Zambia",
-    "role": "Partner bank",
-    "focus": "Value-chain lending"
+    "status": "Active",
+    "program": "Inclusion finance",
+    "country": "Zambia",
+    "bankName": "ABSA Bank Zambia"
   }
 ]

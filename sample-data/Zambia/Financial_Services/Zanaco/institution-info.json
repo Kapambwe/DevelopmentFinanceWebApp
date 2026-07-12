@@ -1,7 +1,10 @@
 {
   "country": "Zambia",
-  "institutionType": "Financial Services",
-  "institutionName": "Zanaco",
-  "programName": "Zanaco Partnership Programs",
-  "description": "Commercial banking partner supporting development-finance delivery, SME lending, and rural inclusion."
+  "status": "Active",
+  "focus": "SME banking, payments, and agricultural finance",
+  "currency": "ZMW",
+  "website": "https://www.zanaco.co.zm/",
+  "institutionType": "Financial_Services",
+  "sector": "Commercial banking",
+  "institutionName": "Zanaco"
 }

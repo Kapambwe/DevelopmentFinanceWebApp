@@ -1,51 +1,17 @@
-[
-  {
-    "id": "boi-industry-001",
-    "tokenType": "ProgramAccessToken",
-    "name": "Nigeria industry support access token",
-    "tokenName": "Nigeria industry support access token",
-    "status": "Active",
-    "industry": "Development Finance",
-    "issuer": "Bank of Industry",
-    "issuerType": "DFI",
-    "instrument": "Industry support entitlement",
-    "issuedAt": "2026-06-21T11:45:00Z",
-    "route": "/digital-tokens/marketplace",
-    "useCase": "Industrial cluster onboarding",
-    "visibility": "Institution",
-    "investmentAudience": "Industry programme managers and partner banks"
-  },
-  {
-    "id": "boi-inclusion-001",
-    "tokenType": "ImpactToken",
-    "name": "Financial inclusion impact token",
-    "tokenName": "Financial inclusion impact token",
-    "status": "Issued",
-    "industry": "Development Finance",
-    "issuer": "Bank of Industry",
-    "issuerType": "DFI",
-    "instrument": "Impact measurement",
-    "issuedAt": "2026-06-18T14:30:00Z",
-    "route": "/digital-tokens/transactions",
-    "useCase": "Women and youth enterprise finance tracking",
-    "visibility": "Financial Sector",
-    "isFinancialSectorInvestable": true,
-    "investmentAudience": "Development partners and impact funds"
-  },
-  {
-    "id": "boi-iss-001",
-    "tokenType": "GrantToken",
-    "name": "Manufacturing upgrade grant token",
-    "tokenName": "Manufacturing upgrade grant token",
-    "status": "Pending",
-    "industry": "Development Finance",
-    "issuer": "Bank of Industry",
-    "issuerType": "DFI",
-    "instrument": "Grant allocation",
-    "issuedAt": "2026-06-24T12:30:00Z",
-    "route": "/digital-tokens/issuance",
-    "useCase": "Industrial equipment upgrade support",
-    "visibility": "Institution",
-    "investmentAudience": "Industrial support and approvals teams"
-  }
-]
+{
+  "tokenName": "Nigeria industrialisation impact token",
+  "visibility": "Financial Sector",
+  "useCase": "Track industrial lending outcomes",
+  "issuer": "Bank of Industry",
+  "issuedAt": "2026-06-21T09:15:00Z",
+  "isFinancialSectorInvestable": true,
+  "investmentAudience": "Impact investors and policy teams",
+  "instrument": "Impact reporting",
+  "tokenType": "ImpactToken",
+  "industry": "Development Finance",
+  "id": "boi-token-001",
+  "status": "Issued",
+  "route": "/digital-tokens/transactions",
+  "name": "Nigeria industrialisation impact token",
+  "issuerType": "DFI"
+}

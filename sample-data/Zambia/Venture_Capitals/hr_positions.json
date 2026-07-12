@@ -1,0 +1,26 @@
+[
+  {
+    "country": "Zambia",
+    "positionCode": "HR-001",
+    "title": "HR Officer",
+    "department": "Corporate Services",
+    "headcount": "2",
+    "status": "Open"
+  },
+  {
+    "country": "Zambia",
+    "positionCode": "HR-002",
+    "title": "Payroll Specialist",
+    "department": "Finance",
+    "headcount": "1",
+    "status": "Filled"
+  },
+  {
+    "country": "Zambia",
+    "positionCode": "HR-003",
+    "title": "Programme Analyst",
+    "department": "Projects",
+    "headcount": "3",
+    "status": "Open"
+  }
+]

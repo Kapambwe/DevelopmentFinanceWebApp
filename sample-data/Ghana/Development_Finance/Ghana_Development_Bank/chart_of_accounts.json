@@ -1,0 +1,23 @@
+[
+  {
+    "code": "1000",
+    "country": "Ghana",
+    "description": "Liquidity for development finance and SME support.",
+    "category": "Assets",
+    "name": "Cash and Cash Equivalents"
+  },
+  {
+    "code": "2000",
+    "country": "Ghana",
+    "description": "Agriculture and export-oriented credit portfolio.",
+    "category": "Assets",
+    "name": "Agribusiness Credit Book"
+  },
+  {
+    "code": "3000",
+    "country": "Ghana",
+    "description": "Reserve supporting strategic financing initiatives.",
+    "category": "Equity",
+    "name": "Development Fund Reserve"
+  }
+]

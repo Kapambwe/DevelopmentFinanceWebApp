@@ -1,0 +1,26 @@
+[
+  {
+    "debit": "TZS 0.0B",
+    "postingDate": "2026-06-07",
+    "balance": "TZS 31.6B",
+    "country": "Tanzania",
+    "description": "Opening balance carry forward",
+    "credit": "TZS 0.0B"
+  },
+  {
+    "debit": "TZS 4.1B",
+    "postingDate": "2026-06-17",
+    "balance": "TZS 27.5B",
+    "country": "Tanzania",
+    "description": "Value-chain disbursement",
+    "credit": "TZS 0.0B"
+  },
+  {
+    "debit": "TZS 0.0B",
+    "postingDate": "2026-06-24",
+    "balance": "TZS 27.8B",
+    "country": "Tanzania",
+    "description": "Commitment reversal",
+    "credit": "TZS 0.3B"
+  }
+]

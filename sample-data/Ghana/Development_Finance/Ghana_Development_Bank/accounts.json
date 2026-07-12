@@ -1,0 +1,26 @@
+[
+  {
+    "balance": "GHS 108.4M",
+    "status": "Active",
+    "accountName": "Cash and Cash Equivalents",
+    "country": "Ghana",
+    "accountNo": "1000",
+    "accountType": "Asset"
+  },
+  {
+    "balance": "GHS 1.3B",
+    "status": "Active",
+    "accountName": "Agribusiness Credit Book",
+    "country": "Ghana",
+    "accountNo": "2000",
+    "accountType": "Asset"
+  },
+  {
+    "balance": "GHS 62.8M",
+    "status": "Active",
+    "accountName": "Development Fund Reserve",
+    "country": "Ghana",
+    "accountNo": "3000",
+    "accountType": "Equity"
+  }
+]

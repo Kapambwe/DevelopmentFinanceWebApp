@@ -1,0 +1,10 @@
+{
+  "name": "Self Help Africa",
+  "description": "Agriculture finance, climate resilience, and inclusive rural livelihoods lifecycle.",
+  "stages": [
+    { "key": "originate", "title": "Originate", "description": "Needs assessment and partner mobilisation", "targetPath": "/country-dfi", "icon": "article", "visibleRoles": ["Admin", "Programme Manager", "Risk Officer"] },
+    { "key": "finance", "title": "Finance", "description": "Programme design and fund allocation", "targetPath": "/development-finance/lifecycle", "icon": "payments", "visibleRoles": ["Admin", "Programme Manager", "FinanceManager"] },
+    { "key": "deliver", "title": "Deliver", "description": "Project delivery, beneficiary support, and implementation", "targetPath": "/pipeline", "icon": "handshake", "visibleRoles": ["Admin", "Programme Manager", "Risk Officer"] },
+    { "key": "monitor", "title": "Monitor", "description": "Household outcomes, climate adaptation, and reporting", "targetPath": "/implementation-monitor", "icon": "analytics", "visibleRoles": ["Admin", "Monitoring Officer"] }
+  ]
+}

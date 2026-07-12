@@ -1,0 +1,26 @@
+[
+  {
+    "debit": "NGN 0.0B",
+    "postingDate": "2026-06-05",
+    "balance": "NGN 148.2B",
+    "country": "Nigeria",
+    "description": "Opening balance carry forward",
+    "credit": "NGN 0.0B"
+  },
+  {
+    "debit": "NGN 18.6B",
+    "postingDate": "2026-06-15",
+    "balance": "NGN 129.6B",
+    "country": "Nigeria",
+    "description": "Industrial disbursement",
+    "credit": "NGN 0.0B"
+  },
+  {
+    "debit": "NGN 0.0B",
+    "postingDate": "2026-06-22",
+    "balance": "NGN 131.7B",
+    "country": "Nigeria",
+    "description": "Recovery payment received",
+    "credit": "NGN 2.1B"
+  }
+]

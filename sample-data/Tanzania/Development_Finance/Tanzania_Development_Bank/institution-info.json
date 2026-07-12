@@ -1,8 +1,7 @@
-[
-  {
-    "name": "Tanzania Development Bank",
-    "country": "Tanzania",
-    "sector": "Development finance",
-    "focus": "Agriculture, fisheries, and industrial finance"
-  }
-]
+{
+  "programName": "Tanzania Development Bank",
+  "country": "Tanzania",
+  "institutionName": "Tanzania_Development_Bank",
+  "description": "Tanzanian development finance institution supporting agriculture, manufacturing, and inclusive growth.",
+  "institutionType": "Development_Finance"
+}

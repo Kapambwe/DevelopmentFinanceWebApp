@@ -1,26 +1,14 @@
 [
   {
+    "organizationName": "Development Finance Institution Beneficiaries",
+    "description": "Development Finance Institution beneficiaries and partners",
     "country": "Zambia",
-    "employeeId": "HR-ZM-001",
-    "fullName": "Moses Chanda",
-    "department": "Corporate Services",
-    "position": "HR Officer",
-    "status": "Active"
+    "category": "Development finance"
   },
   {
+    "organizationName": "Local SME Association",
+    "description": "Small business and livelihood support",
     "country": "Zambia",
-    "employeeId": "HR-ZM-002",
-    "fullName": "Ruth Phiri",
-    "department": "Projects",
-    "position": "Programme Analyst",
-    "status": "Active"
-  },
-  {
-    "country": "Zambia",
-    "employeeId": "HR-ZM-003",
-    "fullName": "Brian Mwila",
-    "department": "Finance",
-    "position": "Payroll Specialist",
-    "status": "Onboarding"
+    "category": "Beneficiary"
   }
 ]

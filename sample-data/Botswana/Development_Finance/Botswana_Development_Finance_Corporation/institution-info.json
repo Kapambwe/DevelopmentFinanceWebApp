@@ -1,8 +1,7 @@
-[
-  {
-    "name": "Botswana Development Finance Corporation",
-    "country": "Botswana",
-    "sector": "Development finance",
-    "focus": "Industrial finance and SME growth"
-  }
-]
+{
+  "programName": "Botswana Development Finance Corporation",
+  "country": "Botswana",
+  "institutionName": "Botswana_Development_Finance_Corporation",
+  "description": "Botswana development finance institution supporting diversification, SMEs, and strategic investment.",
+  "institutionType": "Development_Finance"
+}

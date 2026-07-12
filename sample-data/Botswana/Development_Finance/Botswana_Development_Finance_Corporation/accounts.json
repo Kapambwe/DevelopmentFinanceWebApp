@@ -1,0 +1,26 @@
+[
+  {
+    "balance": "BWP 74.0M",
+    "status": "Active",
+    "accountName": "Cash and Cash Equivalents",
+    "country": "Botswana",
+    "accountNo": "1000",
+    "accountType": "Asset"
+  },
+  {
+    "balance": "BWP 402.0M",
+    "status": "Active",
+    "accountName": "SME Credit Portfolio",
+    "country": "Botswana",
+    "accountNo": "2000",
+    "accountType": "Asset"
+  },
+  {
+    "balance": "BWP 58.0M",
+    "status": "Active",
+    "accountName": "Growth Reserve",
+    "country": "Botswana",
+    "accountNo": "3000",
+    "accountType": "Equity"
+  }
+]

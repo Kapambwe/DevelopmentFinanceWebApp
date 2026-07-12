@@ -1,0 +1,14 @@
+[
+  {
+    "bankName": "CRDB Bank",
+    "status": "Active",
+    "country": "Tanzania",
+    "program": "Agribusiness lending"
+  },
+  {
+    "bankName": "NMB Bank",
+    "status": "Active",
+    "country": "Tanzania",
+    "program": "SME finance"
+  }
+]

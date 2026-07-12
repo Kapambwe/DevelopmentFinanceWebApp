@@ -1,0 +1,23 @@
+[
+  {
+    "code": "1000",
+    "country": "Botswana",
+    "description": "Cash position for enterprise support.",
+    "category": "Assets",
+    "name": "Cash and Cash Equivalents"
+  },
+  {
+    "code": "2000",
+    "country": "Botswana",
+    "description": "Credit support for Botswana SMEs.",
+    "category": "Assets",
+    "name": "SME Credit Portfolio"
+  },
+  {
+    "code": "3000",
+    "country": "Botswana",
+    "description": "Reserve for strategic development programmes.",
+    "category": "Equity",
+    "name": "Growth Reserve"
+  }
+]

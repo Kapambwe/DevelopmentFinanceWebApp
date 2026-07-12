@@ -1,7 +1,16 @@
-[
-  {
-    "tokenType": "ProgramAccessToken",
-    "name": "Tanzania Development Finance Access",
-    "status": "Active"
-  }
-]
+{
+  "tokenName": "Tanzania agribusiness impact token",
+  "visibility": "Institution",
+  "useCase": "Track agribusiness growth results",
+  "issuer": "Tanzania Development Bank",
+  "issuedAt": "2026-06-22T13:00:00Z",
+  "investmentAudience": "Development partners",
+  "instrument": "Impact reporting",
+  "tokenType": "ImpactToken",
+  "industry": "Development Finance",
+  "id": "tdb-token-001",
+  "status": "Active",
+  "route": "/digital-tokens/marketplace",
+  "name": "Tanzania agribusiness impact token",
+  "issuerType": "DFI"
+}

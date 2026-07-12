@@ -1,0 +1,26 @@
+[
+  {
+    "debit": "ZAR 0.0M",
+    "postingDate": "2026-06-01",
+    "balance": "ZAR 412.0M",
+    "country": "South_Africa",
+    "description": "Opening balance carry forward",
+    "credit": "ZAR 0.0M"
+  },
+  {
+    "debit": "ZAR 6.5M",
+    "postingDate": "2026-06-10",
+    "balance": "ZAR 405.5M",
+    "country": "South_Africa",
+    "description": "Farm support disbursement",
+    "credit": "ZAR 0.0M"
+  },
+  {
+    "debit": "ZAR 0.0M",
+    "postingDate": "2026-06-18",
+    "balance": "ZAR 406.7M",
+    "country": "South_Africa",
+    "description": "Partner recovery receipt",
+    "credit": "ZAR 1.2M"
+  }
+]

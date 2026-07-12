@@ -1,7 +1,10 @@
 {
   "country": "Zambia",
-  "institutionType": "Financial Services",
-  "institutionName": "First National Bank Zambia",
-  "programName": "FNB Partnership Programs",
-  "description": "Commercial banking partner supporting value-chain lending, digitization, and enterprise growth."
+  "status": "Active",
+  "focus": "Digital banking, payments, and trade finance",
+  "currency": "ZMW",
+  "website": "https://www.fnbzambia.co.zm/",
+  "institutionType": "Financial_Services",
+  "sector": "Commercial banking",
+  "institutionName": "First National Bank Zambia"
 }

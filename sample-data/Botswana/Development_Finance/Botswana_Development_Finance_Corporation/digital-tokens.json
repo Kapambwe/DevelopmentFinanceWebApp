@@ -1,51 +1,16 @@
-[
-  {
-    "id": "bdfc-sme-001",
-    "tokenType": "ProgramAccessToken",
-    "name": "Botswana SME facility access token",
-    "tokenName": "Botswana SME facility access token",
-    "status": "Active",
-    "industry": "Development Finance",
-    "issuer": "Botswana Development Finance Corporation",
-    "issuerType": "DFI",
-    "instrument": "SME access entitlement",
-    "issuedAt": "2026-06-21T10:30:00Z",
-    "route": "/digital-tokens/marketplace",
-    "useCase": "SME facility onboarding",
-    "visibility": "Institution",
-    "investmentAudience": "Credit officers and partner lenders"
-  },
-  {
-    "id": "bdfc-valuechain-001",
-    "tokenType": "GuaranteeToken",
-    "name": "Value chain guarantee token",
-    "tokenName": "Value chain guarantee token",
-    "status": "Issued",
-    "industry": "Development Finance",
-    "issuer": "Botswana Development Finance Corporation",
-    "issuerType": "DFI",
-    "instrument": "Guarantee backing",
-    "issuedAt": "2026-06-19T13:00:00Z",
-    "route": "/digital-tokens/transactions",
-    "useCase": "Agri-processing guarantee support",
-    "visibility": "Financial Sector",
-    "isFinancialSectorInvestable": true,
-    "investmentAudience": "Banks and blended finance partners"
-  },
-  {
-    "id": "bdfc-iss-001",
-    "tokenType": "GrantToken",
-    "name": "Entrepreneurship grant token",
-    "tokenName": "Entrepreneurship grant token",
-    "status": "Pending",
-    "industry": "Development Finance",
-    "issuer": "Botswana Development Finance Corporation",
-    "issuerType": "DFI",
-    "instrument": "Grant allocation",
-    "issuedAt": "2026-06-24T11:00:00Z",
-    "route": "/digital-tokens/issuance",
-    "useCase": "Youth enterprise support",
-    "visibility": "Institution",
-    "investmentAudience": "Enterprise development managers"
-  }
-]
+{
+  "tokenName": "Botswana SME support token",
+  "visibility": "Institution",
+  "useCase": "Track SME support and approvals",
+  "issuer": "Botswana Development Finance Corporation",
+  "issuedAt": "2026-06-22T07:45:00Z",
+  "investmentAudience": "Programme administrators",
+  "instrument": "Grant allocation",
+  "tokenType": "GrantToken",
+  "industry": "Development Finance",
+  "id": "bdfc-token-001",
+  "status": "Issued",
+  "route": "/digital-tokens/marketplace",
+  "name": "Botswana SME support token",
+  "issuerType": "DFI"
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "bankName": "GCB Bank",
+    "status": "Active",
+    "country": "Ghana",
+    "program": "SME growth support"
+  },
+  {
+    "bankName": "Ecobank Ghana",
+    "status": "Active",
+    "country": "Ghana",
+    "program": "Agribusiness finance"
+  }
+]

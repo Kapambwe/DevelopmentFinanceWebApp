@@ -1,0 +1,23 @@
+[
+  {
+    "code": "1000",
+    "country": "South_Africa",
+    "description": "Operating liquidity for Southern Africa programmes.",
+    "category": "Assets",
+    "name": "Cash and Cash Equivalents"
+  },
+  {
+    "code": "2000",
+    "country": "South_Africa",
+    "description": "Portfolio of inclusive rural financing assets.",
+    "category": "Assets",
+    "name": "Rural Finance Portfolio"
+  },
+  {
+    "code": "3000",
+    "country": "South_Africa",
+    "description": "Reserve for co-financing and programme continuity.",
+    "category": "Equity",
+    "name": "Programme Reserve"
+  }
+]

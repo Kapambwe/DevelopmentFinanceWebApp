@@ -1,7 +1,10 @@
 {
   "country": "Zambia",
-  "institutionType": "Financial Services",
-  "institutionName": "NATSAVE",
-  "programName": "NATSAVE Inclusion Programs",
-  "description": "Financial inclusion partner focusing on savings, micro-enterprise support, and local community growth."
+  "status": "Active",
+  "focus": "Retail savings, microfinance, and inclusion",
+  "currency": "ZMW",
+  "website": "https://www.natsave.co.zm/",
+  "institutionType": "Financial_Services",
+  "sector": "Savings and lending",
+  "institutionName": "NATSAVE"
 }

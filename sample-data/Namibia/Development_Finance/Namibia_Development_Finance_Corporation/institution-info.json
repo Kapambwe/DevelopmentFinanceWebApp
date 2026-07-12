@@ -1,8 +1,7 @@
-[
-  {
-    "name": "Namibia Development Finance Corporation",
-    "country": "Namibia",
-    "sector": "Development finance",
-    "focus": "SME growth and export finance"
-  }
-]
+{
+  "programName": "Namibia Development Finance Corporation",
+  "country": "Namibia",
+  "institutionName": "Namibia_Development_Finance_Corporation",
+  "description": "Namibian development finance institution supporting industrial growth, SMEs, and regional competitiveness.",
+  "institutionType": "Development_Finance"
+}

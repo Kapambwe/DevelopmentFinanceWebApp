@@ -1,7 +1,7 @@
 {
-  "country": "Ghana",
-  "institutionType": "Financial Services",
-  "institutionName": "Ghana_Development_Bank",
   "programName": "Ghana Development Bank Partnership Programs",
-  "description": "Development finance partner supporting agriculture, export growth, and inclusive enterprise finance."
+  "country": "Ghana",
+  "institutionName": "Ghana_Development_Bank",
+  "description": "Commercial partnership bundle for enterprise finance and market access.",
+  "institutionType": "Financial_Services"
 }
