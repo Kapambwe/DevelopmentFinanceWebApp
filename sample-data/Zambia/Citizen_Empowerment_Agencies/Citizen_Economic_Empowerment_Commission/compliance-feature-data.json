@@ -1,0 +1,87 @@
+{
+  "formDesigners": [
+    {
+      "id": "fd-ceec-001",
+      "name": "Citizen Empowerment Grant Designer",
+      "useCase": "CitizenEmpowermentFunds",
+      "owner": "Compliance",
+      "workflowKey": "citizen-empowerment-funds-review",
+      "status": "Active",
+      "lastUpdated": "2026-07-01T00:00:00Z",
+      "changeCount": 12
+    }
+  ],
+  "applicationQueue": [
+    {
+      "id": "aq-ceec-001",
+      "applicationNumber": "CEEC-2026-0001",
+      "applicantName": "Kafue Youth Cooperative",
+      "institution": "Citizen Economic Empowerment Commission",
+      "queueStage": "Review",
+      "status": "InProgress",
+      "submittedAt": "2026-07-03T00:00:00Z"
+    }
+  ],
+  "officerAssignments": [
+    {
+      "id": "oa-ceec-001",
+      "applicationNumber": "CEEC-2026-0001",
+      "officerName": "Chanda Mwila",
+      "team": "Citizen Empowerment",
+      "allocationType": "Primary",
+      "status": "InProgress",
+      "assignedAt": "2026-07-03T00:00:00Z"
+    }
+  ],
+  "applicationReviews": [
+    {
+      "id": "ar-ceec-001",
+      "applicationNumber": "CEEC-2026-0001",
+      "applicantName": "Kafue Youth Cooperative",
+      "reviewer": "Chanda Mwila",
+      "reviewStage": "Compliance Review",
+      "status": "PendingReview",
+      "reviewDue": "2026-07-16T00:00:00Z",
+      "workflowKey": "citizen-empowerment-funds-review",
+      "formName": "Citizen Empowerment Grant",
+      "formVersion": "1.0",
+      "credentialSubject": "did:sample:ceec:grant:0001",
+      "isCryptographicallyValid": true,
+      "sentToWallet": true,
+      "evidenceBundle": {
+        "pdfCount": 1,
+        "credentialCount": 1,
+        "proofCount": 1,
+        "verifiedCount": 1,
+        "trustScore": 88,
+        "items": []
+      },
+      "formData": {
+        "region": "Central",
+        "fundType": "Youth Enterprise"
+      },
+      "requirements": [
+        "Identity verification",
+        "Beneficiary screening"
+      ],
+      "auditTrail": [
+        {
+          "timestamp": "2026-07-03T00:00:00Z",
+          "actor": "system",
+          "action": "Submitted",
+          "details": "Application submitted from citizen wallet."
+        }
+      ]
+    }
+  ],
+  "formDesignerHistory": {
+    "fd-ceec-001": [
+      {
+        "version": 1,
+        "changedBy": "system",
+        "changeSummary": "Initial citizen empowerment grant workflow.",
+        "changedAt": "2026-06-15T00:00:00Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "workflowKey": "citizen-empowerment-funds-review",
+    "title": "Citizen Empowerment Funds Review",
+    "description": "Review and approve citizen empowerment grant submissions.",
+    "order": 1,
+    "featured": true
+  }
+]
