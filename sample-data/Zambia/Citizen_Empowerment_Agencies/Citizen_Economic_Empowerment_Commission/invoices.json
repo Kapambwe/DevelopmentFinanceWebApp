@@ -1,0 +1,41 @@
+[
+  {
+    "currency": "ZMW",
+    "customerId": "d2fd7d50-8b5e-4e1e-b6ad-4f0d9c4a1001",
+    "invoiceNumber": "INV-CEEC-1001",
+    "dueDate": "2026-08-15T00:00:00Z",
+    "amount": 1850000.0,
+    "paidAmount": 1200000.0,
+    "status": "Partially Paid",
+    "customerName": "Lusaka Agro Traders Ltd",
+    "invoiceDate": "2026-07-01T00:00:00Z",
+    "invoiceId": "9f0c0f2a-5e73-4f95-9ed0-b2f5d5c1a001",
+    "createdAt": "2026-07-01T00:00:00Z"
+  },
+  {
+    "currency": "ZMW",
+    "customerId": "d2fd7d50-8b5e-4e1e-b6ad-4f0d9c4a1002",
+    "invoiceNumber": "INV-CEEC-1002",
+    "dueDate": "2026-08-22T00:00:00Z",
+    "amount": 980000.0,
+    "paidAmount": 0.0,
+    "status": "Unpaid",
+    "customerName": "Copperbelt Women Co-op",
+    "invoiceDate": "2026-07-08T00:00:00Z",
+    "invoiceId": "9f0c0f2a-5e73-4f95-9ed0-b2f5d5c1a002",
+    "createdAt": "2026-07-08T00:00:00Z"
+  },
+  {
+    "currency": "ZMW",
+    "customerId": "d2fd7d50-8b5e-4e1e-b6ad-4f0d9c4a1003",
+    "invoiceNumber": "INV-CEEC-1003",
+    "dueDate": "2026-07-18T00:00:00Z",
+    "amount": 245000.0,
+    "paidAmount": 245000.0,
+    "status": "Paid",
+    "customerName": "Eastern Province Milling",
+    "invoiceDate": "2026-06-18T00:00:00Z",
+    "invoiceId": "9f0c0f2a-5e73-4f95-9ed0-b2f5d5c1a003",
+    "createdAt": "2026-06-18T00:00:00Z"
+  }
+]

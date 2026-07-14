@@ -4,6 +4,7 @@
     { "country": "Zambia", "institutionType": "Financial Services", "institution": "Absa Bank Zambia", "dataRoot": "sample-data/Zambia/Financial_Services/Absa_Bank_Zambia" },
     { "country": "Zambia", "institutionType": "Financial Services", "institution": "First National Bank Zambia", "dataRoot": "sample-data/Zambia/Financial_Services/First_National_Bank_Zambia" },
     { "country": "Zambia", "institutionType": "Financial Services", "institution": "NATSAVE", "dataRoot": "sample-data/Zambia/Financial_Services/NATSAVE" },
+    { "country": "Zambia", "institutionType": "Citizen Empowerment Agencies", "institution": "Citizen Economic Empowerment Commission", "dataRoot": "sample-data/Zambia/Citizen_Empowerment_Agencies/Citizen_Economic_Empowerment_Commission" },
     { "country": "World", "institutionType": "Development Finance Institution", "institution": "Sustainable Livestock Infrastructure Management Project", "dataRoot": "sample-data/World/Development_Finance_Institution/Sustainable_Livestock_Infrastructure_Management_Project" },
     { "country": "World", "institutionType": "Development Finance Institution", "institution": "Climate Resilient Livestock Management Project", "dataRoot": "sample-data/World/Development_Finance_Institution/Climate_Resilient_Livestock_Management_Project" },
     { "country": "South_Africa", "institutionType": "Development Finance", "institution": "Development_Bank_of_Southern_Africa", "dataRoot": "sample-data/South_Africa/Development_Finance/Development_Bank_of_Southern_Africa" },
