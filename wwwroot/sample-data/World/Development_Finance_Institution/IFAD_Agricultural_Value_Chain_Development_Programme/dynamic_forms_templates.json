@@ -1,0 +1,10 @@
+[
+  {
+    "formName": "Programme Stakeholder Intake",
+    "workflow": "Submission -> Technical Review -> Approval"
+  },
+  {
+    "formName": "Rural Investment Proposal",
+    "workflow": "Submission -> Sector Review -> Approval"
+  }
+]

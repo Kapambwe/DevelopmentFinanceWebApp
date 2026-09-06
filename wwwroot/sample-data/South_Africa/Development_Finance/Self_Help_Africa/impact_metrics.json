@@ -1,0 +1,30 @@
+[
+  {
+    "metricName": "Smallholder households reached",
+    "value": 18500,
+    "unit": "households",
+    "baseline": 0,
+    "target": 20000
+  },
+  {
+    "metricName": "Women-led groups supported",
+    "value": 6200,
+    "unit": "groups",
+    "baseline": 0,
+    "target": 7000
+  },
+  {
+    "metricName": "Youth agripreneurs supported",
+    "value": 3100,
+    "unit": "people",
+    "baseline": 0,
+    "target": 4000
+  },
+  {
+    "metricName": "Climate-smart plots established",
+    "value": 5400,
+    "unit": "plots",
+    "baseline": 0,
+    "target": 6000
+  }
+]

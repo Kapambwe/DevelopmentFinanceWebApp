@@ -1,0 +1,16 @@
+[
+  {
+    "country": "Zambia",
+    "program": "Builder Launchpad",
+    "cohort": "2026 Q2",
+    "participants": 24,
+    "status": "Active"
+  },
+  {
+    "country": "Zambia",
+    "program": "Scale Sprint",
+    "cohort": "2026 Q3",
+    "participants": 18,
+    "status": "Planned"
+  }
+]

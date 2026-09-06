@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Makeni Smallholder Cooperative",
+    "sector": "Agriculture",
+    "location": "Lusaka Province",
+    "supportType": "Working capital, input finance, and savings access",
+    "impactFocus": "Poverty reduction and household income growth"
+  },
+  {
+    "name": "Women in Agri-Business Network",
+    "sector": "SME",
+    "location": "Central Province",
+    "supportType": "Enterprise lending and business training",
+    "impactFocus": "Financial inclusion for women entrepreneurs"
+  },
+  {
+    "name": "Youth Market Linkages Cooperative",
+    "sector": "Youth Enterprise",
+    "location": "Copperbelt Province",
+    "supportType": "Startup accounts and cashflow support",
+    "impactFocus": "Youth employment and formal financial access"
+  }
+]
